@@ -1,877 +1,332 @@
-[
-  {
-    "base_id": "moral-thirsty-crow",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "moral-lion-and-mouse",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-clever-rabbit",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-morning-light",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "moral-tortoise-and-hare",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-evening-peace",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "bedtime-sleepy-train",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "bedtime-dream-boat",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "bedtime-yawning-kitten",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "bedtime-whispering-forest",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "bedtime-lighthouse-friend",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "bedtime-snail-slow-day",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "bedtime-blanket-of-stars",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "bedtime-sleepy-elephant",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "bedtime-garden-of-dreams",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "bedtime-rain-song",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "bedtime-night-bus",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "bedtime-grandmother-moon",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "bedtime-teddys-quiet-adventure",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-gratitude-dawn",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-inner-lamp",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-thanks-for-food",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-river-of-peace",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-seva-service",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-letting-go",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-strength-in-storm",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-mother-nature",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-honor-parents",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-contentment",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-morning-resolve",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-night-surrender",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-small-kindness",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-one-light-many-lamps",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-patience-prayer",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-work-as-worship",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-gratitude-body",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-guru-gratitude",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "devotion-new-week-blessing",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "wisdom-vivekananda",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "fairy-cinderella",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "fairy-snow-white",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "fairy-sleeping-beauty",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "fairy-rapunzel",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "fairy-jack-beanstalk",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "fairy-goldilocks",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "fairy-red-riding-hood",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "fairy-thumbelina",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "fairy-puss-in-boots",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "fairy-aladdin-lamp",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "fairy-ali-baba",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "fairy-frog-prince",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "finance-what-is-sip",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "finance-emergency-fund",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "finance-beware-ponzi",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "finance-upi-safety",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "finance-budget-50-30-20",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "finance-credit-score",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "folk-birbal-counts-crows",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "folk-birbal-shorter-line",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "folk-birbal-real-mother",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "folk-birbal-pot-of-wisdom",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "folk-tenali-brinjal",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "folk-tenali-thieves-well",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "folk-vikram-betaal-intro",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "folk-clever-daughter",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "folk-old-man-plants-mango",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "folk-salt-in-food",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "folk-lazy-brahmin-pot",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "folk-honest-cowherd",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "folk-why-sky-is-high",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "folk-seven-sisters-stars",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "folk-rooster-and-sun",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "folk-bell-of-justice",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "folk-two-pots-river",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "folk-weaver-and-genie",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-monkey-and-crocodile",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-blue-jackal",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-crane-and-crab",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-four-friends",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-talkative-turtle",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-musical-donkey",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-monkeys-and-firefly",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-elephants-and-mice",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-cat-judge",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-doves-and-net",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-jackal-and-drum",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-two-headed-bird",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-crows-and-snake",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-loyal-mongoose",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-rabbits-and-elephant",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-ant-and-grasshopper",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-fox-and-grapes",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-boy-who-cried-wolf",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-goose-golden-eggs",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-town-mouse-country-mouse",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-wind-and-sun",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-fox-and-crow",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-dog-and-bone",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-ant-and-dove",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-bundle-of-sticks",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-milkmaid-and-pail",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-bell-the-cat",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-jackdaw-and-peacocks",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-honest-woodcutter",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-fox-and-stork",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-hare-and-hound",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-lion-and-three-bulls",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-mercury-and-woodman",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-oak-and-reeds",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-lion-and-boar",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-wise-parrot-jataka",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-banyan-deer",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-monkey-bridge-jataka",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-quarreling-quails",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-golden-swan",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-clever-birbal-well",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-birbal-khichdi",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-tenali-cat",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-magic-pot-folk",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-sparrow-and-crow-folk",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-red-hen-folk",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-three-fish",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-stone-soup",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-ugly-duckling",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-emperors-new-clothes",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-hansel-gretel",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-elves-shoemaker",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-gingerbread-man",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-three-little-pigs",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-moon-lake-lullaby",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-sleepy-star",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-cloud-who-lost-rain",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-turtle-wins-again",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "kids-mouse-and-lion-cub",
-    "reused": true,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-congratulations-to-muslims-on-the-celebration-of",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-1911-encyclop-dia-britannicacandlemas",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-the-new-international-encyclop-diafestivals",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-lancashire-legends-traditions-pageants-sports-cp",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-1911-encyclop-dia-britannicaall-souls-day",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-pastoral-poems-breton-selected-poetry-wither-pas",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-poetry",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-art-of-poetry",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-poems-victorpoetry",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-the-spirit-of-poetry",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-a-treasury-of-war-poetry-british-and-american-po",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-zinzendorff-and-other-poemspoetry",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-a-dictionary-of-music-and-musiciansstrakosch-mau",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-the-story-of-the-house-of-cassellpart-1-chapter",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-public-opinionchapter-9",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-free-as-in-freedom-2002epilogue",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-encyclop-dia-britannica-ninth-editionfriedrich-b",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-white-house-announces-additional-policy-staff",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-john-brown-du-boischapter-5",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-a-dictionary-of-music-and-musicianswagner-richar",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-1911-encyclop-dia-britannicasecular-games",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-what-is-technology",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-national-technology-transfer-and-advancement-act",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-popular-science-monthlyvolume-39august-1891the-r",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-popular-science-monthlyvolume-44january-1894inve",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-proclamation-4721",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-proclamation-5312",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-1911-encyclop-dia-britannicabeckmann-johann",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-popular-science-monthlyvolume-12november-1877the",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-dictionary-of-national-biography-1885-1900story",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-dictionary-of-national-biography-1912-supplement",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-the-boys-life-of-mark-twain",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-the-story-of-my-lifepreface",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-dictionary-of-national-biography-1885-1900ewing",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-essays-in-idlenesswit-and-humor",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-popular-science-monthlyvolume-73august-1908the-n",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-points-of-view-reppliera-plea-for-humor",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-wit-and-its-relation-to-the-unconsciousvii",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-damn-a-book-of-calumnychapter-4",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-the-grey-wig-collectionthe-serio-comic-governess",
-    "reused": false,
-    "panelCount": 4
-  },
-  {
-    "base_id": "ws-en-the-grey-wig-collectionend-matter",
-    "reused": false,
-    "panelCount": 4
+{
+  "ws-en-the-new-students-reference-workveda": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Ms Sarah Welch — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Vedas)"
+  },
+  "ws-en-atharva-veda-samhitabook-xhymn-5": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Arvid Liljelund — Public domain, via Wikimedia Commons (from Wikipedia: Hymn)"
+  },
+  "ws-en-1911-encyclop-dia-britannicabr-hma-a": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Ms Sarah Welch — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Brahmana)"
+  },
+  "ws-en-vedic-literature": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Ms Sarah Welch — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Vedas)"
+  },
+  "ws-en-atharva-veda-samhitabook-xiihymn-1": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Richard Wünsch — Public domain, via Wikimedia Commons (from Wikipedia: Orphic Hymns)"
+  },
+  "ws-en-hatha-yoga": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Chiswick Chap — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Hatha yoga)"
+  },
+  "ws-en-yoga-sutras-johnson": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Kalyan Kumar — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Yoga)"
+  },
+  "ws-en-an-introduction-to-yoga": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Annie Besant — Public domain, via Wikimedia Commons (from Wikipedia: An Introduction to Yoga)"
+  },
+  "ws-en-emanuel-swedenborg-scientist-and-mysticnotes-and": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Photo: chil, on Camptocamp.org\nDerivative work:Zacharie Grossen — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Matterhorn)"
+  },
+  "ws-en-the-discovery-of-radium": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: grenadier — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Radium)"
+  },
+  "ws-en-the-discovery-of-guianaintroductory-note": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: DEMIS Mapserver, पाटलिपुत्र — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Sogdia)"
+  },
+  "ws-en-emanuel-swedenborg-scientist-and-mystic": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Carl Frederik von Breda — Public domain, via Wikimedia Commons (from Wikipedia: Emanuel Swedenborg)"
+  },
+  "ws-en-what-is-technology": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Siemens Pressebild — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Technology)"
+  },
+  "ws-en-national-technology-transfer-and-advancement-act": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: William Shakespeare and unknown scribe — Public domain, via Wikimedia Commons (from Wikipedia: Incorporation by reference)"
+  },
+  "ws-en-popular-science-monthlyvolume-44january-1894inve": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
+  },
+  "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Johann Beckmann)"
+  },
+  "ws-en-the-boys-life-of-mark-twain": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: not listed — Public domain, via Wikimedia Commons (from Wikipedia: Mark Twain bibliography)"
+  },
+  "ws-en-dictionary-of-national-biography-1885-1900ewing": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Juliana Horatia Ewing)"
+  },
+  "ws-en-essays-in-idlenesswit-and-humor": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Staff Sgt. Marc Lane — Public domain, via Wikimedia Commons (from Wikipedia: Humour)"
+  },
+  "ws-en-popular-science-monthlyvolume-73august-1908the-n": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Humorism)"
+  },
+  "ws-en-points-of-view-reppliera-plea-for-humor": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Nicki Dugan Pogue from San Francisco, USA — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Jared Fogle)"
+  },
+  "ws-en-the-grey-wig-collectionthe-serio-comic-governess": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Israel Zangwill)"
+  },
+  "ws-en-the-grey-wig-collectionend-matter": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Hans Holbein the Younger — Public domain, via Wikimedia Commons (from Wikipedia: Book design)"
+  },
+  "ws-en-in-flanders-fields-and-other-poemsthe-oldest-dra": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Chemical Engineer — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Royal Academy of Dramatic Art)"
+  },
+  "ws-en-a-dictionary-of-music-and-musiciansrolle": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
+  },
+  "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Roger Davies — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Dorchester on Thames)"
+  },
+  "ws-en-a-dictionary-of-music-and-musiciansdictionaries": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Alton — CC BY 3.0, via Wikimedia Commons (from Wikipedia: The New Grove Dictionary of Music and Musicians)"
+  },
+  "ws-en-art-of-poetry": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Anton von Werner — Public domain, via Wikimedia Commons (from Wikipedia: Ars Poetica (Horace))"
+  },
+  "ws-en-the-spirit-of-poetry": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Catholic literary revival)"
+  },
+  "ws-en-how-to-write-a-short-story": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: A Predicament)"
+  },
+  "ws-en-beyond-fantasy-fiction1953": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: U.S. Army Major Martin Manhoff — Public domain, via Wikimedia Commons (from Wikipedia: 1953)"
+  },
+  "ws-en-beyond-fantasy-fiction1955": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: 1955)"
+  },
+  "ws-en-analog-science-fiction-and-fact": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Hans Waldemar Wessolowski — Public domain, via Wikimedia Commons (from Wikipedia: Analog Science Fiction and Fact)"
+  },
+  "ws-en-analog-science-fiction-and-fact1937": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: 1937)"
+  },
+  "ws-en-beyond-fantasy-fiction1954": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Vietnam People's Army — Public domain, via Wikimedia Commons (from Wikipedia: 1954)"
+  },
+  "ws-en-drug-themes-in-science-fiction": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Alphonse de Neuville / Henri Théophile Hildibrand — Public domain, via Wikimedia Commons (from Wikipedia: History of science fiction)"
+  },
+  "ws-en-journal-of-american-folk-lorevolume-13issue-51re": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Klügmann Painter — Public domain, via Wikimedia Commons (from Wikipedia: Reading)"
+  },
+  "ws-en-the-lost-road-collectionend-matter": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Hans Holbein the Younger — Public domain, via Wikimedia Commons (from Wikipedia: Book design)"
+  },
+  "ws-en-the-american-cyclop-dia-1879taylor-bayard": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Bayard Taylor)"
+  },
+  "ws-en-enterprise-and-adventuremajor-mitchell-and-the-b": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Bushranger)"
+  },
+  "ws-en-the-white-miceend-matter": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Hans Holbein the Younger — Public domain, via Wikimedia Commons (from Wikipedia: Book design)"
+  },
+  "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: PresN — CC0, via Wikimedia Commons (from Wikipedia: Canidae)"
+  },
+  "ws-en-national-coalition-for-gay-and-lesbian-equality": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: User:victorgrigas — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: National Coalition for Gay and Lesbian Equality v Minister of Home Affairs)"
+  },
+  "ws-en-the-encyclopedia-americana-1920house-of-the-seve": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Ticknor and Fields/Nathaniel Hawthorne — Public domain, via Wikimedia Commons (from Wikipedia: The House of the Seven Gables)"
+  },
+  "ws-en-popular-science-monthlyvolume-82may-1913heredity": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — CC0, via Wikimedia Commons (from Wikipedia: Alexander Graham Bell)"
+  },
+  "ws-en-custom-and-myththe-early-history-of-the-family": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: George R. King. — Public domain, via Wikimedia Commons (from Wikipedia: History of the family)"
+  },
+  "ws-en-a-dictionary-of-music-and-musiciansstrakosch-mau": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: José María Mora — Public domain, via Wikimedia Commons (from Wikipedia: Maurice Strakosch)"
+  },
+  "ws-en-free-as-in-freedom-2002epilogue": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Cowesome — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Epilogue)"
+  },
+  "ws-en-encyclop-dia-britannica-ninth-editionfriedrich-b": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Friedrich Hermann Hartmann — Public domain, via Wikimedia Commons (from Wikipedia: Friedrich Nietzsche)"
+  },
+  "ws-en-white-house-announces-additional-policy-staff": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Second presidency of Donald Trump — Public domain, via Wikimedia Commons (from Wikipedia: White House Office)"
+  },
+  "ws-en-a-dictionary-of-music-and-musicianswagner-richar": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Franz Hanfstaengl — Public domain, via Wikimedia Commons (from Wikipedia: Richard Wagner)"
+  },
+  "ws-en-dictionary-of-national-biography-1885-1900oreill": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Augustus Marshall (d. 1916) — Public domain, via Wikimedia Commons (from Wikipedia: John Boyle O'Reilly)"
+  },
+  "ws-en-the-times1929obituarywalter-rye": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Walter Rye)"
+  },
+  "devotion-inner-lamp": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Flickr user Oimax \n\n\n\n\n\n\nThis image was originally posted to Flickr by OiMax at https://www.flickr.com/photos/72396314@N00/404614118. It was reviewed on 20 May 2007 by FlickreviewR and was confirmed to be licensed under the terms of the cc-by-2.0.\n20 May 2007 — CC BY 2.0, via Wikimedia Commons (from Wikipedia: Fluorescent lamp)"
+  },
+  "devotion-river-of-peace": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Jeffrey Wynne — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Peace River)"
+  },
+  "devotion-morning-resolve": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Pompeo Batoni — CC0, via Wikimedia Commons (from Wikipedia: Sacred Heart)"
+  },
+  "devotion-night-surrender": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Thomas Nast — Public domain, via Wikimedia Commons (from Wikipedia: Battle of Appomattox Court House)"
+  },
+  "devotion-one-light-many-lamps": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Kuebi = Armin Kübelbeck — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Compact fluorescent lamp)"
+  },
+  "devotion-patience-prayer": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
+  },
+  "devotion-guru-gratitude": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Kiran891 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: List of Teachers' Days)"
+  },
+  "devotion-new-week-blessing": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: No machine-readable author provided. Bachrach44 assumed (based on copyright claims). — Public domain, via Wikimedia Commons (from Wikipedia: Priestly Blessing)"
+  },
+  "wisdom-vivekananda": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Ramakrishna Mission Delhi — Public domain, via Wikimedia Commons (from Wikipedia: Bibliography of Swami Vivekananda)"
+  },
+  "finance-what-is-sip": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
+  },
+  "finance-beware-ponzi": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Philip Romano — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: R. L. Stine)"
+  },
+  "finance-upi-safety": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Brian T Richards — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Aloha IslandAir Flight 1712)"
+  },
+  "finance-budget-50-30-20": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Harris &amp; Ewing, photographer — Public domain, via Wikimedia Commons (from Wikipedia: Personal budget)"
   }
-]
+}

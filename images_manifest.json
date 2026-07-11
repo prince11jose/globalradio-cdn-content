@@ -69,11 +69,6 @@
     "source": "commons",
     "attribution": "Photo: William Shakespeare and unknown scribe — Public domain, via Wikimedia Commons (from Wikipedia: Incorporation by reference)"
   },
-  "ws-en-popular-science-monthlyvolume-44january-1894inve": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
-  },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
     "source": "commons",
@@ -313,6 +308,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
+  },
+  "finance-beware-ponzi": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Philip Romano — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: R. L. Stine)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

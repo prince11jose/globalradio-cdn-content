@@ -69,11 +69,6 @@
     "source": "commons",
     "attribution": "Photo: William Shakespeare and unknown scribe — Public domain, via Wikimedia Commons (from Wikipedia: Incorporation by reference)"
   },
-  "ws-en-popular-science-monthlyvolume-39august-1891the-r": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Brian Chan tigerrulezzz — CC0, via Wikimedia Commons (from Wikipedia: List of Scottish inventions and discoveries)"
-  },
   "ws-en-popular-science-monthlyvolume-44january-1894inve": {
     "panelCount": 1,
     "source": "commons",
@@ -129,6 +124,11 @@
     "source": "commons",
     "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
   },
+  "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Roger Davies — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Dorchester on Thames)"
+  },
   "ws-en-a-dictionary-of-music-and-musiciansdictionaries": {
     "panelCount": 1,
     "source": "commons",
@@ -177,7 +177,7 @@
   "ws-en-drug-themes-in-science-fiction": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Columbia Publications / Ed Emshwiller — Public domain, via Wikimedia Commons (from Wikipedia: Robert Silverberg bibliography)"
+    "attribution": "Photo: Alphonse de Neuville / Henri Théophile Hildibrand — Public domain, via Wikimedia Commons (from Wikipedia: History of science fiction)"
   },
   "ws-en-journal-of-american-folk-lorevolume-13issue-51re": {
     "panelCount": 1,
@@ -224,6 +224,11 @@
     "source": "commons",
     "attribution": "Photo: Ticknor and Fields/Nathaniel Hawthorne — Public domain, via Wikimedia Commons (from Wikipedia: The House of the Seven Gables)"
   },
+  "ws-en-popular-science-monthlyvolume-82may-1913heredity": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — CC0, via Wikimedia Commons (from Wikipedia: Alexander Graham Bell)"
+  },
   "ws-en-custom-and-myththe-early-history-of-the-family": {
     "panelCount": 1,
     "source": "commons",
@@ -269,11 +274,6 @@
     "source": "commons",
     "attribution": "Photo: Flickr user Oimax \n\n\n\n\n\n\nThis image was originally posted to Flickr by OiMax at https://www.flickr.com/photos/72396314@N00/404614118. It was reviewed on 20 May 2007 by FlickreviewR and was confirmed to be licensed under the terms of the cc-by-2.0.\n20 May 2007 — CC BY 2.0, via Wikimedia Commons (from Wikipedia: Fluorescent lamp)"
   },
-  "devotion-thanks-for-food": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Peggy Greb, USDA ARS — Public domain, via Wikimedia Commons (from Wikipedia: Birkat Hamazon)"
-  },
   "devotion-river-of-peace": {
     "panelCount": 1,
     "source": "commons",
@@ -289,6 +289,11 @@
     "source": "commons",
     "attribution": "Photo: Kuebi = Armin Kübelbeck — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Compact fluorescent lamp)"
   },
+  "devotion-patience-prayer": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
+  },
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
@@ -299,15 +304,10 @@
     "source": "commons",
     "attribution": "Photo: The original uploader was Dziewa at English Wikipedia. — Public domain, via Wikimedia Commons (from Wikipedia: Swami Vivekananda)"
   },
-  "finance-what-is-sip": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
-  },
   "finance-beware-ponzi": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Sidewalks Entertainment — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Bow Wow (rapper))"
+    "attribution": "Photo: Philip Romano — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: R. L. Stine)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

@@ -124,11 +124,6 @@
     "source": "commons",
     "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
   },
-  "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Roger Davies — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Dorchester on Thames)"
-  },
   "ws-en-a-dictionary-of-music-and-musiciansdictionaries": {
     "panelCount": 1,
     "source": "commons",
@@ -177,7 +172,7 @@
   "ws-en-drug-themes-in-science-fiction": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Alphonse de Neuville / Henri Théophile Hildibrand — Public domain, via Wikimedia Commons (from Wikipedia: History of science fiction)"
+    "attribution": "Photo: Columbia Publications / Ed Emshwiller — Public domain, via Wikimedia Commons (from Wikipedia: Robert Silverberg bibliography)"
   },
   "ws-en-journal-of-american-folk-lorevolume-13issue-51re": {
     "panelCount": 1,
@@ -224,11 +219,6 @@
     "source": "commons",
     "attribution": "Photo: Ticknor and Fields/Nathaniel Hawthorne — Public domain, via Wikimedia Commons (from Wikipedia: The House of the Seven Gables)"
   },
-  "ws-en-popular-science-monthlyvolume-82may-1913heredity": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Unknown authorUnknown author — CC0, via Wikimedia Commons (from Wikipedia: Alexander Graham Bell)"
-  },
   "ws-en-custom-and-myththe-early-history-of-the-family": {
     "panelCount": 1,
     "source": "commons",
@@ -269,56 +259,6 @@
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Walter Rye)"
   },
-  "ws-en-the-fables-of-sop-jacobsa-short-history-of-the-s": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
-  },
-  "ws-en-the-encyclopedia-americana-1920childrens-literat": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Smith, Jessie Willcox, 1863-1935 (artist); L. Prang &amp; Co. (publisher) — Public domain, via Wikimedia Commons (from Wikipedia: Children's literature)"
-  },
-  "ws-en-fables-aesop": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
-  },
-  "ws-en-the-blue-fairy-book": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: The Langs' Fairy Books)"
-  },
-  "ws-en-essays-moral-and-politicalessay-13": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Michel de Montaigne († 1592) — Public domain, via Wikimedia Commons (from Wikipedia: Essay)"
-  },
-  "ws-en-1911-encyclop-dia-britannicafable": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Fable)"
-  },
-  "ws-en-sops-fables-v-s-vernon-jones": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
-  },
-  "ws-en-felicia-hemans-in-blackwoods-edinburgh-magazine": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Howardcorn33 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Prayer)"
-  },
-  "ws-en-catholic-encyclopedia-1913prayer-books": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Church of England — Public domain, via Wikimedia Commons (from Wikipedia: Book of Common Prayer)"
-  },
-  "ws-en-scenes-and-hymns-of-life-with-other-religious-po": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Sanctuary Mountain Maungatautari)"
-  },
   "devotion-inner-lamp": {
     "panelCount": 1,
     "source": "commons",
@@ -339,11 +279,6 @@
     "source": "commons",
     "attribution": "Photo: Kuebi = Armin Kübelbeck — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Compact fluorescent lamp)"
   },
-  "devotion-patience-prayer": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
-  },
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
@@ -358,6 +293,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
+  },
+  "finance-beware-ponzi": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Sidewalks Entertainment — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Bow Wow (rapper))"
   },
   "finance-upi-safety": {
     "panelCount": 1,

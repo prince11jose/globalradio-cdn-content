@@ -22,7 +22,7 @@
   "ws-en-atharva-veda-samhitabook-xiihymn-1": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Richard Wünsch — Public domain, via Wikimedia Commons (from Wikipedia: Orphic Hymns)"
+    "attribution": "Photo: Arvid Liljelund — Public domain, via Wikimedia Commons (from Wikipedia: Hymn)"
   },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
@@ -94,6 +94,11 @@
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Humorism)"
   },
+  "ws-en-points-of-view-reppliera-plea-for-humor": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Nicki Dugan Pogue from San Francisco, USA — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Jared Fogle)"
+  },
   "ws-en-the-grey-wig-collectionthe-serio-comic-governess": {
     "panelCount": 1,
     "source": "commons",
@@ -112,7 +117,7 @@
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
+    "attribution": "Photo: Tennessee Titans — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Myron Rolle)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
     "panelCount": 1,
@@ -177,7 +182,7 @@
   "ws-en-catalogue-of-books-suitable-for-a-popular-librar": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Pausanias — Public domain, via Wikimedia Commons (from Wikipedia: Description of Greece)"
+    "attribution": "Photo: Hokachung — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Travel)"
   },
   "ws-en-the-riddle-and-other-storiesthe-bird-of-travel": {
     "panelCount": 1,
@@ -222,7 +227,7 @@
   "ws-en-popular-science-monthlyvolume-82may-1913heredity": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Fred Hartsook — Public domain, via Wikimedia Commons (from Wikipedia: Luther Burbank)"
+    "attribution": "Photo: Carnegie Institution of Washington (according to the back of the photograph, visible at the download page)\n\nRestored by Adam Cuerden. — Public domain, via Wikimedia Commons (from Wikipedia: Nettie Stevens)"
   },
   "ws-en-custom-and-myththe-early-history-of-the-family": {
     "panelCount": 1,
@@ -289,11 +294,6 @@
     "source": "commons",
     "attribution": "Photo: Kuebi = Armin Kübelbeck — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Compact fluorescent lamp)"
   },
-  "devotion-patience-prayer": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
-  },
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
@@ -308,11 +308,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
-  },
-  "finance-beware-ponzi": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Philip Romano — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: R. L. Stine)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

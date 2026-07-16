@@ -49,6 +49,11 @@
     "source": "commons",
     "attribution": "Photo: grenadier — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Radium)"
   },
+  "ws-en-the-discovery-of-guianaintroductory-note": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: DEMIS Mapserver, पाटलिपुत्र — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Sogdia)"
+  },
   "ws-en-emanuel-swedenborg-scientist-and-mystic": {
     "panelCount": 1,
     "source": "commons",
@@ -68,6 +73,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Brian Chan tigerrulezzz — CC0, via Wikimedia Commons (from Wikipedia: List of Scottish inventions and discoveries)"
+  },
+  "ws-en-popular-science-monthlyvolume-44january-1894inve": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
   },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
@@ -117,7 +127,7 @@
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
+    "attribution": "Photo: Tennessee Titans — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Myron Rolle)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
     "panelCount": 1,
@@ -222,7 +232,7 @@
   "ws-en-popular-science-monthlyvolume-82may-1913heredity": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Unknown authorUnknown author — CC0, via Wikimedia Commons (from Wikipedia: Alexander Graham Bell)"
+    "attribution": "Photo: Carnegie Institution of Washington (according to the back of the photograph, visible at the download page)\n\nRestored by Adam Cuerden. — Public domain, via Wikimedia Commons (from Wikipedia: Nettie Stevens)"
   },
   "ws-en-custom-and-myththe-early-history-of-the-family": {
     "panelCount": 1,
@@ -279,30 +289,15 @@
     "source": "commons",
     "attribution": "Photo: Pompeo Batoni — CC0, via Wikimedia Commons (from Wikipedia: Sacred Heart)"
   },
-  "devotion-night-surrender": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Thomas Nast — Public domain, via Wikimedia Commons (from Wikipedia: Battle of Appomattox Court House)"
-  },
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Kuebi = Armin Kübelbeck — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Compact fluorescent lamp)"
   },
-  "devotion-patience-prayer": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
-  },
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Kiran891 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: List of Teachers' Days)"
-  },
-  "devotion-new-week-blessing": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: No machine-readable author provided. Bachrach44 assumed (based on copyright claims). — Public domain, via Wikimedia Commons (from Wikipedia: Priestly Blessing)"
   },
   "wisdom-vivekananda": {
     "panelCount": 1,
@@ -314,14 +309,14 @@
     "source": "commons",
     "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
   },
-  "finance-beware-ponzi": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Philip Romano — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: R. L. Stine)"
-  },
   "finance-upi-safety": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Brian T Richards — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Aloha IslandAir Flight 1712)"
+  },
+  "finance-budget-50-30-20": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Harris &amp; Ewing, photographer — Public domain, via Wikimedia Commons (from Wikipedia: Personal budget)"
   }
 }

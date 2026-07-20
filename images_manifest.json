@@ -69,15 +69,15 @@
     "source": "commons",
     "attribution": "Photo: William Shakespeare and unknown scribe — Public domain, via Wikimedia Commons (from Wikipedia: Incorporation by reference)"
   },
+  "ws-en-popular-science-monthlyvolume-44january-1894inve": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
+  },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Johann Beckmann)"
-  },
-  "ws-en-popular-science-monthlyvolume-12november-1877the": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Nicolás Pérez — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Watt steam engine)"
   },
   "ws-en-the-boys-life-of-mark-twain": {
     "panelCount": 1,
@@ -123,6 +123,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
+  },
+  "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Roger Davies — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Dorchester on Thames)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansdictionaries": {
     "panelCount": 1,
@@ -227,7 +232,7 @@
   "ws-en-popular-science-monthlyvolume-82may-1913heredity": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Unknown authorUnknown author — CC0, via Wikimedia Commons (from Wikipedia: Alexander Graham Bell)"
+    "attribution": "Photo: Fred Hartsook — Public domain, via Wikimedia Commons (from Wikipedia: Luther Burbank)"
   },
   "ws-en-custom-and-myththe-early-history-of-the-family": {
     "panelCount": 1,

@@ -22,7 +22,7 @@
   "ws-en-atharva-veda-samhitabook-xiihymn-1": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Arvid Liljelund — Public domain, via Wikimedia Commons (from Wikipedia: Hymn)"
+    "attribution": "Photo: Exekias — CC BY 2.5, via Wikimedia Commons (from Wikipedia: Homeric Hymns)"
   },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
@@ -69,11 +69,6 @@
     "source": "commons",
     "attribution": "Photo: William Shakespeare and unknown scribe — Public domain, via Wikimedia Commons (from Wikipedia: Incorporation by reference)"
   },
-  "ws-en-popular-science-monthlyvolume-39august-1891the-r": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Brian Chan tigerrulezzz — CC0, via Wikimedia Commons (from Wikipedia: List of Scottish inventions and discoveries)"
-  },
   "ws-en-popular-science-monthlyvolume-44january-1894inve": {
     "panelCount": 1,
     "source": "commons",
@@ -83,6 +78,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Johann Beckmann)"
+  },
+  "ws-en-popular-science-monthlyvolume-12november-1877the": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Nicolás Pérez — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Watt steam engine)"
   },
   "ws-en-the-boys-life-of-mark-twain": {
     "panelCount": 1,
@@ -127,12 +127,7 @@
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
-  },
-  "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Roger Davies — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Dorchester on Thames)"
+    "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansdictionaries": {
     "panelCount": 1,
@@ -189,6 +184,16 @@
     "source": "commons",
     "attribution": "Photo: Klügmann Painter — Public domain, via Wikimedia Commons (from Wikipedia: Reading)"
   },
+  "ws-en-popular-science-monthlyvolume-40april-1892litera": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Book by Georgiana Hill; illustration by unknown — Public domain, via Wikimedia Commons (from Wikipedia: Georgiana Hill (cookery book writer))"
+  },
+  "ws-en-catalogue-of-books-suitable-for-a-popular-librar": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Hokachung — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Travel)"
+  },
   "ws-en-the-riddle-and-other-storiesthe-bird-of-travel": {
     "panelCount": 1,
     "source": "commons",
@@ -217,12 +222,12 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: PresN — CC0, via Wikimedia Commons (from Wikipedia: Canidae)"
+    "attribution": "Photo: Hollingsworth, John and Karen. — Public domain, via Wikimedia Commons (from Wikipedia: Felidae)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: User:victorgrigas — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: National Coalition for Gay and Lesbian Equality v Minister of Home Affairs)"
+    "attribution": "Photo: User:victorgrigas — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: National Coalition for Gay and Lesbian Equality v Minister of Justice)"
   },
   "ws-en-the-encyclopedia-americana-1920house-of-the-seve": {
     "panelCount": 1,
@@ -292,27 +297,17 @@
   "devotion-night-surrender": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Army Signal Corps photographer LT. Stephen E. Korpanty; restored by Adam Cuerden — Public domain, via Wikimedia Commons (from Wikipedia: Surrender of Japan)"
+    "attribution": "Photo: Army Signal Corps — Public domain, via Wikimedia Commons (from Wikipedia: Surrender (military))"
   },
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Kuebi = Armin Kübelbeck — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Compact fluorescent lamp)"
-  },
-  "devotion-patience-prayer": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
+    "attribution": "Photo: KMJ, alpha masking by Edokter — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Incandescent light bulb)"
   },
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Kiran891 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: List of Teachers' Days)"
-  },
-  "devotion-new-week-blessing": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: No machine-readable author provided. Bachrach44 assumed (based on copyright claims). — Public domain, via Wikimedia Commons (from Wikipedia: Priestly Blessing)"
   },
   "wisdom-vivekananda": {
     "panelCount": 1,
@@ -323,6 +318,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
+  },
+  "finance-beware-ponzi": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Philip Romano — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: R. L. Stine)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

@@ -4,11 +4,6 @@
     "source": "commons",
     "attribution": "Photo: Ms Sarah Welch — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Vedas)"
   },
-  "ws-en-atharva-veda-samhitabook-xhymn-5": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Arvid Liljelund — Public domain, via Wikimedia Commons (from Wikipedia: Hymn)"
-  },
   "ws-en-1911-encyclop-dia-britannicabr-hma-a": {
     "panelCount": 1,
     "source": "commons",
@@ -48,6 +43,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: grenadier — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Radium)"
+  },
+  "ws-en-the-discovery-of-guianaintroductory-note": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: DEMIS Mapserver, पाटलिपुत्र — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Sogdia)"
   },
   "ws-en-emanuel-swedenborg-scientist-and-mystic": {
     "panelCount": 1,
@@ -189,6 +189,11 @@
     "source": "commons",
     "attribution": "Photo: Book by Georgiana Hill; illustration by unknown — Public domain, via Wikimedia Commons (from Wikipedia: Georgiana Hill (cookery book writer))"
   },
+  "ws-en-catalogue-of-books-suitable-for-a-popular-librar": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Hokachung — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Travel)"
+  },
   "ws-en-the-riddle-and-other-storiesthe-bird-of-travel": {
     "panelCount": 1,
     "source": "commons",
@@ -288,6 +293,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Pompeo Batoni — CC0, via Wikimedia Commons (from Wikipedia: Sacred Heart)"
+  },
+  "devotion-night-surrender": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Army Signal Corps photographer LT. Stephen E. Korpanty; restored by Adam Cuerden — Public domain, via Wikimedia Commons (from Wikipedia: Surrender of Japan)"
   },
   "devotion-one-light-many-lamps": {
     "panelCount": 1,

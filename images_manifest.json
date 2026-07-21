@@ -99,11 +99,6 @@
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Humorism)"
   },
-  "ws-en-points-of-view-reppliera-plea-for-humor": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Nicki Dugan Pogue from San Francisco, USA — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Jared Fogle)"
-  },
   "ws-en-the-grey-wig-collectionthe-serio-comic-governess": {
     "panelCount": 1,
     "source": "commons",
@@ -122,7 +117,7 @@
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
+    "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
     "panelCount": 1,
@@ -269,6 +264,11 @@
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Walter Rye)"
   },
+  "devotion-gratitude-dawn": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Abbas Shariati — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Muharram)"
+  },
   "devotion-inner-lamp": {
     "panelCount": 1,
     "source": "commons",
@@ -302,7 +302,7 @@
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: InSapphoWeTrust — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Chynna Phillips)"
+    "attribution": "Photo: Kiran891 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: List of Teachers' Days)"
   },
   "devotion-new-week-blessing": {
     "panelCount": 1,
@@ -312,7 +312,7 @@
   "wisdom-vivekananda": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Ramakrishna Mission Delhi — Public domain, via Wikimedia Commons (from Wikipedia: Bibliography of Swami Vivekananda)"
+    "attribution": "Photo: The original uploader was Dziewa at English Wikipedia. — Public domain, via Wikimedia Commons (from Wikipedia: Swami Vivekananda)"
   },
   "finance-beware-ponzi": {
     "panelCount": 1,

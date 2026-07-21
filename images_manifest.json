@@ -44,11 +44,6 @@
     "source": "commons",
     "attribution": "Photo: grenadier — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Radium)"
   },
-  "ws-en-the-discovery-of-guianaintroductory-note": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: DEMIS Mapserver, पाटलिपुत्र — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Sogdia)"
-  },
   "ws-en-emanuel-swedenborg-scientist-and-mystic": {
     "panelCount": 1,
     "source": "commons",
@@ -64,20 +59,10 @@
     "source": "commons",
     "attribution": "Photo: William Shakespeare and unknown scribe — Public domain, via Wikimedia Commons (from Wikipedia: Incorporation by reference)"
   },
-  "ws-en-popular-science-monthlyvolume-39august-1891the-r": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Brian Chan tigerrulezzz — CC0, via Wikimedia Commons (from Wikipedia: List of Scottish inventions and discoveries)"
-  },
   "ws-en-popular-science-monthlyvolume-44january-1894inve": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
-  },
-  "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Johann Beckmann)"
   },
   "ws-en-the-boys-life-of-mark-twain": {
     "panelCount": 1,
@@ -189,11 +174,6 @@
     "source": "commons",
     "attribution": "Photo: Book by Georgiana Hill; illustration by unknown — Public domain, via Wikimedia Commons (from Wikipedia: Georgiana Hill (cookery book writer))"
   },
-  "ws-en-catalogue-of-books-suitable-for-a-popular-librar": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Hokachung — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Travel)"
-  },
   "ws-en-the-riddle-and-other-storiesthe-bird-of-travel": {
     "panelCount": 1,
     "source": "commons",
@@ -222,7 +202,7 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Hollingsworth, John and Karen. — Public domain, via Wikimedia Commons (from Wikipedia: Felidae)"
+    "attribution": "Photo: PresN — CC0, via Wikimedia Commons (from Wikipedia: Canidae)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
@@ -294,15 +274,10 @@
     "source": "commons",
     "attribution": "Photo: Pompeo Batoni — CC0, via Wikimedia Commons (from Wikipedia: Sacred Heart)"
   },
-  "devotion-night-surrender": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Army Signal Corps photographer LT. Stephen E. Korpanty; restored by Adam Cuerden — Public domain, via Wikimedia Commons (from Wikipedia: Surrender of Japan)"
-  },
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Kuebi = Armin Kübelbeck — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Compact fluorescent lamp)"
+    "attribution": "Photo: Dietmar Rabich — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Street light)"
   },
   "devotion-guru-gratitude": {
     "panelCount": 1,
@@ -318,11 +293,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
-  },
-  "finance-beware-ponzi": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Philip Romano — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: R. L. Stine)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

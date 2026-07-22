@@ -22,7 +22,7 @@
   "ws-en-atharva-veda-samhitabook-xiihymn-1": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Exekias — CC BY 2.5, via Wikimedia Commons (from Wikipedia: Homeric Hymns)"
+    "attribution": "Photo: Richard Wünsch — Public domain, via Wikimedia Commons (from Wikipedia: Orphic Hymns)"
   },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
@@ -69,6 +69,11 @@
     "source": "commons",
     "attribution": "Photo: William Shakespeare and unknown scribe — Public domain, via Wikimedia Commons (from Wikipedia: Incorporation by reference)"
   },
+  "ws-en-popular-science-monthlyvolume-44january-1894inve": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
+  },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
     "source": "commons",
@@ -94,11 +99,6 @@
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Humorism)"
   },
-  "ws-en-points-of-view-reppliera-plea-for-humor": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Nicki Dugan Pogue from San Francisco, USA — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Jared Fogle)"
-  },
   "ws-en-the-grey-wig-collectionthe-serio-comic-governess": {
     "panelCount": 1,
     "source": "commons",
@@ -114,10 +114,20 @@
     "source": "commons",
     "attribution": "Photo: Chemical Engineer — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Royal Academy of Dramatic Art)"
   },
+  "ws-en-folk-lorevolume-2folk-drama": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Arthur Rackham — Public domain, via Wikimedia Commons (from Wikipedia: Folklore)"
+  },
+  "ws-en-the-harvard-classics-vol-51drama-iii": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: John Leech — Public domain, via Wikimedia Commons (from Wikipedia: Drama)"
+  },
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
+    "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
     "panelCount": 1,
@@ -179,16 +189,6 @@
     "source": "commons",
     "attribution": "Photo: Klügmann Painter — Public domain, via Wikimedia Commons (from Wikipedia: Reading)"
   },
-  "ws-en-popular-science-monthlyvolume-40april-1892litera": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Book by Georgiana Hill; illustration by unknown — Public domain, via Wikimedia Commons (from Wikipedia: Georgiana Hill (cookery book writer))"
-  },
-  "ws-en-catalogue-of-books-suitable-for-a-popular-librar": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Hokachung — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Travel)"
-  },
   "ws-en-the-riddle-and-other-storiesthe-bird-of-travel": {
     "panelCount": 1,
     "source": "commons",
@@ -217,12 +217,12 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Hollingsworth, John and Karen. — Public domain, via Wikimedia Commons (from Wikipedia: Felidae)"
+    "attribution": "Photo: PresN — CC0, via Wikimedia Commons (from Wikipedia: Canidae)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: User:victorgrigas — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: National Coalition for Gay and Lesbian Equality v Minister of Justice)"
+    "attribution": "Photo: User:victorgrigas — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: National Coalition for Gay and Lesbian Equality v Minister of Home Affairs)"
   },
   "ws-en-the-encyclopedia-americana-1920house-of-the-seve": {
     "panelCount": 1,
@@ -274,6 +274,11 @@
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Walter Rye)"
   },
+  "devotion-gratitude-dawn": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Abbas Shariati — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Muharram)"
+  },
   "devotion-inner-lamp": {
     "panelCount": 1,
     "source": "commons",
@@ -299,20 +304,25 @@
     "source": "commons",
     "attribution": "Photo: Kuebi = Armin Kübelbeck — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Compact fluorescent lamp)"
   },
+  "devotion-patience-prayer": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
+  },
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Kiran891 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: List of Teachers' Days)"
+    "attribution": "Photo: InSapphoWeTrust — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Chynna Phillips)"
+  },
+  "devotion-new-week-blessing": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: No machine-readable author provided. Bachrach44 assumed (based on copyright claims). — Public domain, via Wikimedia Commons (from Wikipedia: Priestly Blessing)"
   },
   "wisdom-vivekananda": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: The original uploader was Dziewa at English Wikipedia. — Public domain, via Wikimedia Commons (from Wikipedia: Swami Vivekananda)"
-  },
-  "finance-what-is-sip": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
+    "attribution": "Photo: Ramakrishna Mission Delhi — Public domain, via Wikimedia Commons (from Wikipedia: Bibliography of Swami Vivekananda)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

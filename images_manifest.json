@@ -49,11 +49,6 @@
     "source": "commons",
     "attribution": "Photo: grenadier — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Radium)"
   },
-  "ws-en-the-discovery-of-guianaintroductory-note": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: DEMIS Mapserver, पाटलिपुत्र — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Sogdia)"
-  },
   "ws-en-emanuel-swedenborg-scientist-and-mystic": {
     "panelCount": 1,
     "source": "commons",
@@ -68,6 +63,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: William Shakespeare and unknown scribe — Public domain, via Wikimedia Commons (from Wikipedia: Incorporation by reference)"
+  },
+  "ws-en-popular-science-monthlyvolume-44january-1894inve": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
   },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
@@ -113,6 +113,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Arthur Rackham — Public domain, via Wikimedia Commons (from Wikipedia: Folklore)"
+  },
+  "ws-en-the-harvard-classics-vol-51drama-iii": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: John Leech — Public domain, via Wikimedia Commons (from Wikipedia: Drama)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
@@ -297,7 +302,7 @@
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Kiran891 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: List of Teachers' Days)"
+    "attribution": "Photo: InSapphoWeTrust — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Chynna Phillips)"
   },
   "wisdom-vivekananda": {
     "panelCount": 1,

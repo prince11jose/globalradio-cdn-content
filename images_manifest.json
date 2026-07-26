@@ -69,6 +69,11 @@
     "source": "commons",
     "attribution": "Photo: William Shakespeare and unknown scribe — Public domain, via Wikimedia Commons (from Wikipedia: Incorporation by reference)"
   },
+  "ws-en-popular-science-monthlyvolume-44january-1894inve": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
+  },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
     "source": "commons",
@@ -109,15 +114,10 @@
     "source": "commons",
     "attribution": "Photo: Chemical Engineer — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Royal Academy of Dramatic Art)"
   },
-  "ws-en-the-harvard-classics-vol-51drama-iii": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: John Leech — Public domain, via Wikimedia Commons (from Wikipedia: Drama)"
-  },
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
+    "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
     "panelCount": 1,
@@ -264,51 +264,6 @@
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Walter Rye)"
   },
-  "ws-en-the-fables-of-sop-jacobsa-short-history-of-the-s": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
-  },
-  "ws-en-the-encyclopedia-americana-1920childrens-literat": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Smith, Jessie Willcox, 1863-1935 (artist); L. Prang &amp; Co. (publisher) — Public domain, via Wikimedia Commons (from Wikipedia: Children's literature)"
-  },
-  "ws-en-fables-aesop": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
-  },
-  "ws-en-the-blue-fairy-book": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: The Langs' Fairy Books)"
-  },
-  "ws-en-1911-encyclop-dia-britannicafable": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Fable)"
-  },
-  "ws-en-sops-fables-v-s-vernon-jones": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
-  },
-  "ws-en-felicia-hemans-in-blackwoods-edinburgh-magazine": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Howardcorn33 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Prayer)"
-  },
-  "ws-en-catholic-encyclopedia-1913prayer-books": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Church of England — Public domain, via Wikimedia Commons (from Wikipedia: Book of Common Prayer)"
-  },
-  "ws-en-scenes-and-hymns-of-life-with-other-religious-po": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Sanctuary Mountain Maungatautari)"
-  },
   "devotion-inner-lamp": {
     "panelCount": 1,
     "source": "commons",
@@ -323,11 +278,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Pompeo Batoni — CC0, via Wikimedia Commons (from Wikipedia: Sacred Heart)"
-  },
-  "devotion-night-surrender": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Army Signal Corps photographer LT. Stephen E. Korpanty; restored by Adam Cuerden — Public domain, via Wikimedia Commons (from Wikipedia: Surrender of Japan)"
   },
   "devotion-one-light-many-lamps": {
     "panelCount": 1,

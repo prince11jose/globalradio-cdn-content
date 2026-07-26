@@ -49,11 +49,6 @@
     "source": "commons",
     "attribution": "Photo: grenadier — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Radium)"
   },
-  "ws-en-the-discovery-of-guianaintroductory-note": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: DEMIS Mapserver, पाटलिपुत्र — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Sogdia)"
-  },
   "ws-en-emanuel-swedenborg-scientist-and-mystic": {
     "panelCount": 1,
     "source": "commons",
@@ -114,10 +109,15 @@
     "source": "commons",
     "attribution": "Photo: Chemical Engineer — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Royal Academy of Dramatic Art)"
   },
+  "ws-en-the-harvard-classics-vol-51drama-iii": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: John Leech — Public domain, via Wikimedia Commons (from Wikipedia: Drama)"
+  },
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
+    "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
     "panelCount": 1,
@@ -264,11 +264,6 @@
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Walter Rye)"
   },
-  "devotion-gratitude-dawn": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Abbas Shariati — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Muharram)"
-  },
   "devotion-inner-lamp": {
     "panelCount": 1,
     "source": "commons",
@@ -313,10 +308,5 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Brian T Richards — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Aloha IslandAir Flight 1712)"
-  },
-  "finance-budget-50-30-20": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Harris &amp; Ewing, photographer — Public domain, via Wikimedia Commons (from Wikipedia: Personal budget)"
   }
 }

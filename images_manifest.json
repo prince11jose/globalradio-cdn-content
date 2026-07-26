@@ -49,6 +49,11 @@
     "source": "commons",
     "attribution": "Photo: grenadier — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Radium)"
   },
+  "ws-en-the-discovery-of-guianaintroductory-note": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: DEMIS Mapserver, पाटलिपुत्र — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Sogdia)"
+  },
   "ws-en-emanuel-swedenborg-scientist-and-mystic": {
     "panelCount": 1,
     "source": "commons",
@@ -63,11 +68,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: William Shakespeare and unknown scribe — Public domain, via Wikimedia Commons (from Wikipedia: Incorporation by reference)"
-  },
-  "ws-en-popular-science-monthlyvolume-44january-1894inve": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
   },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
@@ -117,7 +117,7 @@
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
+    "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
     "panelCount": 1,
@@ -264,6 +264,51 @@
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Walter Rye)"
   },
+  "ws-en-the-fables-of-sop-jacobsa-short-history-of-the-s": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
+  },
+  "ws-en-the-encyclopedia-americana-1920childrens-literat": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Smith, Jessie Willcox, 1863-1935 (artist); L. Prang &amp; Co. (publisher) — Public domain, via Wikimedia Commons (from Wikipedia: Children's literature)"
+  },
+  "ws-en-fables-aesop": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
+  },
+  "ws-en-the-blue-fairy-book": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: The Langs' Fairy Books)"
+  },
+  "ws-en-1911-encyclop-dia-britannicafable": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Fable)"
+  },
+  "ws-en-sops-fables-v-s-vernon-jones": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
+  },
+  "ws-en-felicia-hemans-in-blackwoods-edinburgh-magazine": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Howardcorn33 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Prayer)"
+  },
+  "ws-en-catholic-encyclopedia-1913prayer-books": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Church of England — Public domain, via Wikimedia Commons (from Wikipedia: Book of Common Prayer)"
+  },
+  "ws-en-scenes-and-hymns-of-life-with-other-religious-po": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Sanctuary Mountain Maungatautari)"
+  },
   "devotion-inner-lamp": {
     "panelCount": 1,
     "source": "commons",
@@ -279,6 +324,11 @@
     "source": "commons",
     "attribution": "Photo: Pompeo Batoni — CC0, via Wikimedia Commons (from Wikipedia: Sacred Heart)"
   },
+  "devotion-night-surrender": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Army Signal Corps photographer LT. Stephen E. Korpanty; restored by Adam Cuerden — Public domain, via Wikimedia Commons (from Wikipedia: Surrender of Japan)"
+  },
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
@@ -292,7 +342,7 @@
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Kiran891 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: List of Teachers' Days)"
+    "attribution": "Photo: InSapphoWeTrust — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Chynna Phillips)"
   },
   "wisdom-vivekananda": {
     "panelCount": 1,
@@ -308,5 +358,10 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Brian T Richards — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Aloha IslandAir Flight 1712)"
+  },
+  "finance-budget-50-30-20": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Harris &amp; Ewing, photographer — Public domain, via Wikimedia Commons (from Wikipedia: Personal budget)"
   }
 }

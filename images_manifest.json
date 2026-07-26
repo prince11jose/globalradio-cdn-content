@@ -79,6 +79,11 @@
     "source": "commons",
     "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Johann Beckmann)"
   },
+  "ws-en-the-boys-life-of-mark-twain": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: not listed — Public domain, via Wikimedia Commons (from Wikipedia: Mark Twain bibliography)"
+  },
   "ws-en-dictionary-of-national-biography-1885-1900ewing": {
     "panelCount": 1,
     "source": "commons",
@@ -108,6 +113,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Chemical Engineer — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Royal Academy of Dramatic Art)"
+  },
+  "ws-en-the-harvard-classics-vol-51drama-iii": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: John Leech — Public domain, via Wikimedia Commons (from Wikipedia: Drama)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
@@ -292,7 +302,7 @@
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: InSapphoWeTrust — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Chynna Phillips)"
+    "attribution": "Photo: Kiran891 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: List of Teachers' Days)"
   },
   "wisdom-vivekananda": {
     "panelCount": 1,

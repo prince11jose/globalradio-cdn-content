@@ -74,6 +74,11 @@
     "source": "commons",
     "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
   },
+  "ws-en-proclamation-4721": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Ralff Nestor Nacor — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Laguna (province))"
+  },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
     "source": "commons",
@@ -202,7 +207,7 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Hollingsworth, John and Karen. — Public domain, via Wikimedia Commons (from Wikipedia: Felidae)"
+    "attribution": "Photo: PresN — CC0, via Wikimedia Commons (from Wikipedia: Canidae)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
@@ -284,11 +289,6 @@
     "source": "commons",
     "attribution": "Photo: Kuebi = Armin Kübelbeck — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Compact fluorescent lamp)"
   },
-  "devotion-patience-prayer": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
-  },
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
@@ -298,11 +298,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: The original uploader was Dziewa at English Wikipedia. — Public domain, via Wikimedia Commons (from Wikipedia: Swami Vivekananda)"
-  },
-  "finance-what-is-sip": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

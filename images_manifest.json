@@ -22,7 +22,7 @@
   "ws-en-atharva-veda-samhitabook-xiihymn-1": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Exekias — CC BY 2.5, via Wikimedia Commons (from Wikipedia: Homeric Hymns)"
+    "attribution": "Photo: Richard Wünsch — Public domain, via Wikimedia Commons (from Wikipedia: Orphic Hymns)"
   },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
@@ -68,11 +68,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Brian Chan tigerrulezzz — CC0, via Wikimedia Commons (from Wikipedia: List of Scottish inventions and discoveries)"
-  },
-  "ws-en-popular-science-monthlyvolume-44january-1894inve": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
   },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
@@ -283,6 +278,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Kuebi = Armin Kübelbeck — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Compact fluorescent lamp)"
+  },
+  "devotion-patience-prayer": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
   },
   "devotion-guru-gratitude": {
     "panelCount": 1,

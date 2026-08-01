@@ -7,7 +7,7 @@
   "ws-en-atharva-veda-samhitabook-xhymn-5": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Arvid Liljelund — Public domain, via Wikimedia Commons (from Wikipedia: Hymn)"
+    "attribution": "Photo: Dosseman — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Anchises)"
   },
   "ws-en-1911-encyclop-dia-britannicabr-hma-a": {
     "panelCount": 1,
@@ -22,7 +22,7 @@
   "ws-en-atharva-veda-samhitabook-xiihymn-1": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Richard Wünsch — Public domain, via Wikimedia Commons (from Wikipedia: Orphic Hymns)"
+    "attribution": "Photo: Exekias — CC BY 2.5, via Wikimedia Commons (from Wikipedia: Homeric Hymns)"
   },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
@@ -78,6 +78,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Johann Beckmann)"
+  },
+  "ws-en-popular-science-monthlyvolume-12november-1877the": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Nicolás Pérez — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Watt steam engine)"
   },
   "ws-en-the-boys-life-of-mark-twain": {
     "panelCount": 1,
@@ -172,7 +177,7 @@
   "ws-en-drug-themes-in-science-fiction": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Alphonse de Neuville / Henri Théophile Hildibrand — Public domain, via Wikimedia Commons (from Wikipedia: History of science fiction)"
+    "attribution": "Photo: Columbia Publications / Ed Emshwiller — Public domain, via Wikimedia Commons (from Wikipedia: Robert Silverberg bibliography)"
   },
   "ws-en-journal-of-american-folk-lorevolume-13issue-51re": {
     "panelCount": 1,
@@ -283,11 +288,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Kuebi = Armin Kübelbeck — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Compact fluorescent lamp)"
-  },
-  "devotion-patience-prayer": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
   },
   "wisdom-vivekananda": {
     "panelCount": 1,

@@ -69,6 +69,11 @@
     "source": "commons",
     "attribution": "Photo: Ministry of Information Photo Division Photographer, Smith Jack? — Public domain, via Wikimedia Commons (from Wikipedia: List of British innovations and discoveries)"
   },
+  "ws-en-popular-science-monthlyvolume-44january-1894inve": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
+  },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
     "source": "commons",
@@ -93,6 +98,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Humorism)"
+  },
+  "ws-en-points-of-view-reppliera-plea-for-humor": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Nicki Dugan Pogue from San Francisco, USA — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Jared Fogle)"
   },
   "ws-en-the-grey-wig-collectionthe-serio-comic-governess": {
     "panelCount": 1,
@@ -202,7 +212,7 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Hollingsworth, John and Karen. — Public domain, via Wikimedia Commons (from Wikipedia: Felidae)"
+    "attribution": "Photo: PresN — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Canidae)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
@@ -264,11 +274,6 @@
     "source": "commons",
     "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
   },
-  "devotion-thanks-for-food": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Peggy Greb, USDA ARS — Public domain, via Wikimedia Commons (from Wikipedia: Birkat Hamazon)"
-  },
   "devotion-river-of-peace": {
     "panelCount": 1,
     "source": "commons",
@@ -279,15 +284,15 @@
     "source": "commons",
     "attribution": "Photo: Pompeo Batoni — CC0, via Wikimedia Commons (from Wikipedia: Sacred Heart)"
   },
+  "devotion-night-surrender": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Army Signal Corps photographer LT. Stephen E. Korpanty; restored by Adam Cuerden — Public domain, via Wikimedia Commons (from Wikipedia: Surrender of Japan)"
+  },
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
-  },
-  "devotion-patience-prayer": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
   },
   "devotion-guru-gratitude": {
     "panelCount": 1,

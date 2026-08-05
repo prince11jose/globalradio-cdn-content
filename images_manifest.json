@@ -284,6 +284,11 @@
     "source": "commons",
     "attribution": "Photo: Pompeo Batoni — CC0, via Wikimedia Commons (from Wikipedia: Sacred Heart)"
   },
+  "devotion-night-surrender": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Army Signal Corps photographer LT. Stephen E. Korpanty; restored by Adam Cuerden — Public domain, via Wikimedia Commons (from Wikipedia: Surrender of Japan)"
+  },
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
@@ -303,11 +308,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
-  },
-  "finance-beware-ponzi": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Philip Romano — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: R. L. Stine)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

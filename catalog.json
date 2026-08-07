@@ -53876,176 +53876,8 @@
       "imagePanelCount": 4
     },
     {
-      "id": "astro-aries-kn-20260807",
-      "title": "ಮೇಷ — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "kannada",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 91,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aries",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-taurus-kn-20260807",
-      "title": "ವೃಷಭ — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "kannada",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 92,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "taurus",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-gemini-kn-20260807",
-      "title": "ಮಿಥುನ — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "kannada",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 15,
-      "sizeKb": 87,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "gemini",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-cancer-kn-20260807",
-      "title": "ಕರ್ಕಾಟಕ — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "kannada",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 99,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "cancer",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-leo-kn-20260807",
-      "title": "ಸಿಂಹ — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "kannada",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 98,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "leo",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-virgo-kn-20260807",
-      "title": "ಕನ್ಯಾ — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "kannada",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 92,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "virgo",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-libra-kn-20260807",
-      "title": "ತುಲಾ — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "kannada",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 93,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "libra",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-scorpio-kn-20260807",
-      "title": "ವೃಶ್ಚಿಕ — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "kannada",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 15,
-      "sizeKb": 89,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "scorpio",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-sagittarius-kn-20260807",
-      "title": "ಧನು — 2026-08-07",
+      "id": "astro-aries-kn-20260709",
+      "title": "ಮೇಷ — 2026-07-09",
       "interests": [
         "astrology"
       ],
@@ -54059,14 +53891,77 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "sagittarius",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "aries",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-capricorn-kn-20260807",
-      "title": "ಮಕರ — 2026-08-07",
+      "id": "astro-taurus-kn-20260709",
+      "title": "ವೃಷಭ — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "kannada",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 93,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "taurus",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-gemini-kn-20260709",
+      "title": "ಮಿಥುನ — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "kannada",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 92,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "gemini",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-cancer-kn-20260709",
+      "title": "ಕರ್ಕಾಟಕ — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "kannada",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 89,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "cancer",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-kn-20260709",
+      "title": "ಸಿಂಹ — 2026-07-09",
       "interests": [
         "astrology"
       ],
@@ -54080,14 +53975,14 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "capricorn",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "leo",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-aquarius-kn-20260807",
-      "title": "ಕುಂಭ — 2026-08-07",
+      "id": "astro-virgo-kn-20260709",
+      "title": "ಕನ್ಯಾ — 2026-07-09",
       "interests": [
         "astrology"
       ],
@@ -54097,442 +53992,22 @@
       ],
       "defaultVoice": "female_warm",
       "durationSec": 16,
-      "sizeKb": 94,
+      "sizeKb": 92,
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aquarius",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "virgo",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-pisces-kn-20260807",
-      "title": "ಮೀನ — 2026-08-07",
+      "id": "astro-libra-kn-20260709",
+      "title": "ತುಲಾ — 2026-07-09",
       "interests": [
         "astrology"
       ],
       "language": "kannada",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 98,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "pisces",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-aries-ur-20260807",
-      "title": "حمل — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "urdu",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 98,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aries",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-taurus-ur-20260807",
-      "title": "ثور — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "urdu",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 95,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "taurus",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-gemini-ur-20260807",
-      "title": "جوزا — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "urdu",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 93,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "gemini",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-cancer-ur-20260807",
-      "title": "سرطان — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "urdu",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 98,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "cancer",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-leo-ur-20260807",
-      "title": "اسد — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "urdu",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 100,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "leo",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-virgo-ur-20260807",
-      "title": "سنبلہ — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "urdu",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 99,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "virgo",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-libra-ur-20260807",
-      "title": "میزان — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "urdu",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 95,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "libra",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-scorpio-ur-20260807",
-      "title": "عقرب — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "urdu",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 94,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "scorpio",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-sagittarius-ur-20260807",
-      "title": "قوس — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "urdu",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 92,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "sagittarius",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-capricorn-ur-20260807",
-      "title": "جدی — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "urdu",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 93,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "capricorn",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-aquarius-ur-20260807",
-      "title": "دلو — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "urdu",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 93,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aquarius",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-pisces-ur-20260807",
-      "title": "حوت — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "urdu",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 99,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "pisces",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-aries-en-20260807",
-      "title": "Aries — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "english",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 92,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aries",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-taurus-en-20260807",
-      "title": "Taurus — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "english",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 96,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "taurus",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-gemini-en-20260807",
-      "title": "Gemini — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "english",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 15,
-      "sizeKb": 89,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "gemini",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-cancer-en-20260807",
-      "title": "Cancer — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "english",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 100,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "cancer",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-leo-en-20260807",
-      "title": "Leo — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "english",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 100,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "leo",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-virgo-en-20260807",
-      "title": "Virgo — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "english",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 92,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "virgo",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-libra-en-20260807",
-      "title": "Libra — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "english",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 15,
-      "sizeKb": 87,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "libra",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-scorpio-en-20260807",
-      "title": "Scorpio — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "english",
       "availableVoices": [
         "female_warm"
       ],
@@ -54542,18 +54017,60 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "scorpio",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "libra",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-sagittarius-en-20260807",
-      "title": "Sagittarius — 2026-08-07",
+      "id": "astro-scorpio-kn-20260709",
+      "title": "ವೃಶ್ಚಿಕ — 2026-07-09",
       "interests": [
         "astrology"
       ],
-      "language": "english",
+      "language": "kannada",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 92,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "scorpio",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-sagittarius-kn-20260709",
+      "title": "ಧನು — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "kannada",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 90,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-capricorn-kn-20260709",
+      "title": "ಮಕರ — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "kannada",
       "availableVoices": [
         "female_warm"
       ],
@@ -54563,77 +54080,77 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "sagittarius",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-capricorn-en-20260807",
-      "title": "Capricorn — 2026-08-07",
+      "id": "astro-aquarius-kn-20260709",
+      "title": "ಕುಂಭ — 2026-07-09",
       "interests": [
         "astrology"
       ],
-      "language": "english",
+      "language": "kannada",
       "availableVoices": [
         "female_warm"
       ],
       "defaultVoice": "female_warm",
       "durationSec": 16,
-      "sizeKb": 96,
+      "sizeKb": 92,
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "capricorn",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-aquarius-en-20260807",
-      "title": "Aquarius — 2026-08-07",
+      "id": "astro-pisces-kn-20260709",
+      "title": "ಮೀನ — 2026-07-09",
       "interests": [
         "astrology"
       ],
-      "language": "english",
+      "language": "kannada",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 93,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "pisces",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-aries-bn-20260709",
+      "title": "মেষ — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "bengali",
       "availableVoices": [
         "female_warm"
       ],
       "defaultVoice": "female_warm",
       "durationSec": 15,
-      "sizeKb": 87,
+      "sizeKb": 88,
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aquarius",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "aries",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-pisces-en-20260807",
-      "title": "Pisces — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "english",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 99,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "pisces",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-aries-bn-20260807",
-      "title": "মেষ — 2026-08-07",
+      "id": "astro-taurus-bn-20260709",
+      "title": "বৃষ — 2026-07-09",
       "interests": [
         "astrology"
       ],
@@ -54647,14 +54164,14 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aries",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "taurus",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-taurus-bn-20260807",
-      "title": "বৃষ — 2026-08-07",
+      "id": "astro-gemini-bn-20260709",
+      "title": "মিথুন — 2026-07-09",
       "interests": [
         "astrology"
       ],
@@ -54668,14 +54185,14 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "taurus",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "gemini",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-gemini-bn-20260807",
-      "title": "মিথুন — 2026-08-07",
+      "id": "astro-cancer-bn-20260709",
+      "title": "কর্কট — 2026-07-09",
       "interests": [
         "astrology"
       ],
@@ -54685,39 +54202,18 @@
       ],
       "defaultVoice": "female_warm",
       "durationSec": 15,
-      "sizeKb": 88,
+      "sizeKb": 87,
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "gemini",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-cancer-bn-20260807",
-      "title": "কর্কট — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "bengali",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 96,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
+      "date": "2026-07-09",
       "sign": "cancer",
-      "publishedDate": "2026-08-07",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-leo-bn-20260807",
-      "title": "সিংহ — 2026-08-07",
+      "id": "astro-leo-bn-20260709",
+      "title": "সিংহ — 2026-07-09",
       "interests": [
         "astrology"
       ],
@@ -54727,18 +54223,60 @@
       ],
       "defaultVoice": "female_warm",
       "durationSec": 16,
-      "sizeKb": 96,
+      "sizeKb": 94,
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
+      "date": "2026-07-09",
       "sign": "leo",
-      "publishedDate": "2026-08-07",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-virgo-bn-20260807",
-      "title": "কন্যা — 2026-08-07",
+      "id": "astro-virgo-bn-20260709",
+      "title": "কন্যা — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "bengali",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 92,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "virgo",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-libra-bn-20260709",
+      "title": "তুলা — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "bengali",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 92,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "libra",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-scorpio-bn-20260709",
+      "title": "বৃশ্চিক — 2026-07-09",
       "interests": [
         "astrology"
       ],
@@ -54752,14 +54290,77 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "virgo",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "scorpio",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-libra-bn-20260807",
-      "title": "তুলা — 2026-08-07",
+      "id": "astro-sagittarius-bn-20260709",
+      "title": "ধনু — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "bengali",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 93,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-capricorn-bn-20260709",
+      "title": "মকর — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "bengali",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 87,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-aquarius-bn-20260709",
+      "title": "কুম্ভ — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "bengali",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 93,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-pisces-bn-20260709",
+      "title": "মীন — 2026-07-09",
       "interests": [
         "astrology"
       ],
@@ -54773,312 +54374,39 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "libra",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-scorpio-bn-20260807",
-      "title": "বৃশ্চিক — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "bengali",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 15,
-      "sizeKb": 88,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "scorpio",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-sagittarius-bn-20260807",
-      "title": "ধনু — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "bengali",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 15,
-      "sizeKb": 87,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "sagittarius",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-capricorn-bn-20260807",
-      "title": "মকর — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "bengali",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 93,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "capricorn",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-aquarius-bn-20260807",
-      "title": "কুম্ভ — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "bengali",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 15,
-      "sizeKb": 88,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aquarius",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-pisces-bn-20260807",
-      "title": "মীন — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "bengali",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 95,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
+      "date": "2026-07-09",
       "sign": "pisces",
-      "publishedDate": "2026-08-07",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-aries-hi-20260807",
-      "title": "मेष — 2026-08-07",
+      "id": "astro-aries-te-20260709",
+      "title": "మేషం — 2026-07-09",
       "interests": [
         "astrology"
       ],
-      "language": "hindi",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 103,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aries",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-taurus-hi-20260807",
-      "title": "वृषभ — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "hindi",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 103,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "taurus",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-gemini-hi-20260807",
-      "title": "मिथुन — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "hindi",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 97,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "gemini",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-cancer-hi-20260807",
-      "title": "कर्क — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "hindi",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 104,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "cancer",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-leo-hi-20260807",
-      "title": "सिंह — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "hindi",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 107,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "leo",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-virgo-hi-20260807",
-      "title": "कन्या — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "hindi",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 102,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "virgo",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-libra-hi-20260807",
-      "title": "तुला — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "hindi",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 101,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "libra",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-scorpio-hi-20260807",
-      "title": "वृश्चिक — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "hindi",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 97,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "scorpio",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-sagittarius-hi-20260807",
-      "title": "धनु — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "hindi",
+      "language": "telugu",
       "availableVoices": [
         "female_warm"
       ],
       "defaultVoice": "female_warm",
       "durationSec": 16,
-      "sizeKb": 95,
+      "sizeKb": 94,
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "sagittarius",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "aries",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-capricorn-hi-20260807",
-      "title": "मकर — 2026-08-07",
+      "id": "astro-taurus-te-20260709",
+      "title": "వృషభం — 2026-07-09",
       "interests": [
         "astrology"
       ],
-      "language": "hindi",
+      "language": "telugu",
       "availableVoices": [
         "female_warm"
       ],
@@ -55088,648 +54416,18 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "capricorn",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-aquarius-hi-20260807",
-      "title": "कुंभ — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "hindi",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 101,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aquarius",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-pisces-hi-20260807",
-      "title": "मीन — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "hindi",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 106,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "pisces",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-aries-gu-20260807",
-      "title": "મેષ — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "gujarati",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 19,
-      "sizeKb": 112,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aries",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-taurus-gu-20260807",
-      "title": "વૃષભ — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "gujarati",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 108,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
+      "date": "2026-07-09",
       "sign": "taurus",
-      "publishedDate": "2026-08-07",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-gemini-gu-20260807",
-      "title": "મિથુન — 2026-08-07",
+      "id": "astro-gemini-te-20260709",
+      "title": "మిథునం — 2026-07-09",
       "interests": [
         "astrology"
       ],
-      "language": "gujarati",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 103,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "gemini",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-cancer-gu-20260807",
-      "title": "કર્ક — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "gujarati",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 19,
-      "sizeKb": 111,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "cancer",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-leo-gu-20260807",
-      "title": "સિંહ — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "gujarati",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 19,
-      "sizeKb": 112,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "leo",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-virgo-gu-20260807",
-      "title": "કન્યા — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "gujarati",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 19,
-      "sizeKb": 111,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "virgo",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-libra-gu-20260807",
-      "title": "તુલા — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "gujarati",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 106,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "libra",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-scorpio-gu-20260807",
-      "title": "વૃશ્ચિક — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "gujarati",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 103,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "scorpio",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-sagittarius-gu-20260807",
-      "title": "ધનુ — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "gujarati",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 101,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "sagittarius",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-capricorn-gu-20260807",
-      "title": "મકર — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "gujarati",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 106,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "capricorn",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-aquarius-gu-20260807",
-      "title": "કુંભ — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "gujarati",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 105,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aquarius",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-pisces-gu-20260807",
-      "title": "મીન — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "gujarati",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 19,
-      "sizeKb": 112,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "pisces",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-aries-ta-20260807",
-      "title": "மேஷம் — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "tamil",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 106,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aries",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-taurus-ta-20260807",
-      "title": "ரிஷபம் — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "tamil",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 105,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "taurus",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-gemini-ta-20260807",
-      "title": "மிதுனம் — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "tamil",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 100,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "gemini",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-cancer-ta-20260807",
-      "title": "கடகம் — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "tamil",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 19,
-      "sizeKb": 109,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "cancer",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-leo-ta-20260807",
-      "title": "சிம்மம் — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "tamil",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 108,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "leo",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-virgo-ta-20260807",
-      "title": "கன்னி — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "tamil",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 106,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "virgo",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-libra-ta-20260807",
-      "title": "துலாம் — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "tamil",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 104,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "libra",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-scorpio-ta-20260807",
-      "title": "விருச்சிகம் — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "tamil",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 100,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "scorpio",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-sagittarius-ta-20260807",
-      "title": "தனுசு — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "tamil",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 100,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "sagittarius",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-capricorn-ta-20260807",
-      "title": "மகரம் — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "tamil",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 105,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "capricorn",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-aquarius-ta-20260807",
-      "title": "கும்பம் — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "tamil",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 105,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aquarius",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-pisces-ta-20260807",
-      "title": "மீனம் — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "tamil",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 19,
-      "sizeKb": 109,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "pisces",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-aries-ml-20260807",
-      "title": "മേടം — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "malayalam",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 15,
-      "sizeKb": 88,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aries",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-taurus-ml-20260807",
-      "title": "ഇടവം — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "malayalam",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 91,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "taurus",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-gemini-ml-20260807",
-      "title": "മിഥുനം — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "malayalam",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 14,
-      "sizeKb": 82,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "gemini",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-cancer-ml-20260807",
-      "title": "കർക്കടകം — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "malayalam",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 93,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "cancer",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-leo-ml-20260807",
-      "title": "ചിങ്ങം — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "malayalam",
+      "language": "telugu",
       "availableVoices": [
         "female_warm"
       ],
@@ -55739,18 +54437,144 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "leo",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "gemini",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-virgo-ml-20260807",
-      "title": "കന്നി — 2026-08-07",
+      "id": "astro-cancer-te-20260709",
+      "title": "కర్కాటకం — 2026-07-09",
       "interests": [
         "astrology"
       ],
-      "language": "malayalam",
+      "language": "telugu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 94,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "cancer",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-te-20260709",
+      "title": "సింహం — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "telugu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 94,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "leo",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-virgo-te-20260709",
+      "title": "కన్య — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "telugu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 98,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "virgo",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-libra-te-20260709",
+      "title": "తుల — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "telugu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 95,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "libra",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-scorpio-te-20260709",
+      "title": "వృశ్చికం — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "telugu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 99,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "scorpio",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-sagittarius-te-20260709",
+      "title": "ధనుస్సు — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "telugu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 97,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-capricorn-te-20260709",
+      "title": "మకరం — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "telugu",
       "availableVoices": [
         "female_warm"
       ],
@@ -55760,56 +54584,308 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-aquarius-te-20260709",
+      "title": "కుంభం — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "telugu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 96,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-pisces-te-20260709",
+      "title": "మీనం — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "telugu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 101,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "pisces",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-aries-ur-20260709",
+      "title": "حمل — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 94,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "aries",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-taurus-ur-20260709",
+      "title": "ثور — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 98,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "taurus",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-gemini-ur-20260709",
+      "title": "جوزا — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 98,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "gemini",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-cancer-ur-20260709",
+      "title": "سرطان — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 93,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "cancer",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-ur-20260709",
+      "title": "اسد — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 94,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "leo",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-virgo-ur-20260709",
+      "title": "سنبلہ — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 99,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
       "sign": "virgo",
-      "publishedDate": "2026-08-07",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-libra-ml-20260807",
-      "title": "തുലാം — 2026-08-07",
+      "id": "astro-libra-ur-20260709",
+      "title": "میزان — 2026-07-09",
       "interests": [
         "astrology"
       ],
-      "language": "malayalam",
+      "language": "urdu",
       "availableVoices": [
         "female_warm"
       ],
       "defaultVoice": "female_warm",
-      "durationSec": 14,
-      "sizeKb": 84,
+      "durationSec": 16,
+      "sizeKb": 94,
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
+      "date": "2026-07-09",
       "sign": "libra",
-      "publishedDate": "2026-08-07",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-scorpio-ml-20260807",
-      "title": "വൃശ്ചികം — 2026-08-07",
+      "id": "astro-scorpio-ur-20260709",
+      "title": "عقرب — 2026-07-09",
       "interests": [
         "astrology"
       ],
-      "language": "malayalam",
+      "language": "urdu",
       "availableVoices": [
         "female_warm"
       ],
       "defaultVoice": "female_warm",
-      "durationSec": 14,
-      "sizeKb": 82,
+      "durationSec": 17,
+      "sizeKb": 98,
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
+      "date": "2026-07-09",
       "sign": "scorpio",
-      "publishedDate": "2026-08-07",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-sagittarius-ml-20260807",
-      "title": "ധനു — 2026-08-07",
+      "id": "astro-sagittarius-ur-20260709",
+      "title": "قوس — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 95,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-capricorn-ur-20260709",
+      "title": "جدی — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 93,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-aquarius-ur-20260709",
+      "title": "دلو — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 94,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-pisces-ur-20260709",
+      "title": "حوت — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 93,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "pisces",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-aries-ml-20260709",
+      "title": "മേടം — 2026-07-09",
       "interests": [
         "astrology"
       ],
@@ -55823,14 +54899,77 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "sagittarius",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "aries",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-capricorn-ml-20260807",
-      "title": "മകരം — 2026-08-07",
+      "id": "astro-taurus-ml-20260709",
+      "title": "ഇടവം — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 93,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "taurus",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-gemini-ml-20260709",
+      "title": "മിഥുനം — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 88,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "gemini",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-cancer-ml-20260709",
+      "title": "കർക്കടകം — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 88,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "cancer",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-ml-20260709",
+      "title": "ചിങ്ങം — 2026-07-09",
       "interests": [
         "astrology"
       ],
@@ -55844,35 +54983,14 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "capricorn",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "leo",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-aquarius-ml-20260807",
-      "title": "കുംഭം — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "malayalam",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 15,
-      "sizeKb": 90,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aquarius",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-pisces-ml-20260807",
-      "title": "മീനം — 2026-08-07",
+      "id": "astro-virgo-ml-20260709",
+      "title": "കന്നി — 2026-07-09",
       "interests": [
         "astrology"
       ],
@@ -55882,18 +55000,1173 @@
       ],
       "defaultVoice": "female_warm",
       "durationSec": 16,
+      "sizeKb": 92,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "virgo",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-libra-ml-20260709",
+      "title": "തുലാം — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 91,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "libra",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-scorpio-ml-20260709",
+      "title": "വൃശ്ചികം — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 88,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "scorpio",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-sagittarius-ml-20260709",
+      "title": "ധനു — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 91,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-capricorn-ml-20260709",
+      "title": "മകരം — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 14,
+      "sizeKb": 82,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-aquarius-ml-20260709",
+      "title": "കുംഭം — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 91,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-pisces-ml-20260709",
+      "title": "മീനം — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 85,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "pisces",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-aries-gu-20260709",
+      "title": "મેષ — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 103,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "aries",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-taurus-gu-20260709",
+      "title": "વૃષભ — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 19,
+      "sizeKb": 112,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "taurus",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-gemini-gu-20260709",
+      "title": "મિથુન — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 19,
+      "sizeKb": 112,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "gemini",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-cancer-gu-20260709",
+      "title": "કર્ક — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 101,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "cancer",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-gu-20260709",
+      "title": "સિંહ — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 106,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "leo",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-virgo-gu-20260709",
+      "title": "કન્યા — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 19,
+      "sizeKb": 111,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "virgo",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-libra-gu-20260709",
+      "title": "તુલા — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 106,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "libra",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-scorpio-gu-20260709",
+      "title": "વૃશ્ચિક — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 19,
+      "sizeKb": 113,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "scorpio",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-sagittarius-gu-20260709",
+      "title": "ધનુ — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 106,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-capricorn-gu-20260709",
+      "title": "મકર — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 103,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-aquarius-gu-20260709",
+      "title": "કુંભ — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 105,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-pisces-gu-20260709",
+      "title": "મીન — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 106,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "pisces",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-aries-hi-20260709",
+      "title": "मेष — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 97,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "aries",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-taurus-hi-20260709",
+      "title": "वृषभ — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 104,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "taurus",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-gemini-hi-20260709",
+      "title": "मिथुन — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 102,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "gemini",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-cancer-hi-20260709",
+      "title": "कर्क — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 94,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "cancer",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-hi-20260709",
+      "title": "सिंह — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 101,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "leo",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-virgo-hi-20260709",
+      "title": "कन्या — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 103,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "virgo",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-libra-hi-20260709",
+      "title": "तुला — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 101,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "libra",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-scorpio-hi-20260709",
+      "title": "वृश्चिक — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 103,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "scorpio",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-sagittarius-hi-20260709",
+      "title": "धनु — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 103,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-capricorn-hi-20260709",
+      "title": "मकर — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 97,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-aquarius-hi-20260709",
+      "title": "कुंभ — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 102,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-pisces-hi-20260709",
+      "title": "मीन — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 102,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "pisces",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-aries-en-20260709",
+      "title": "Aries — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 89,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "aries",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-taurus-en-20260709",
+      "title": "Taurus — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 92,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "taurus",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-gemini-en-20260709",
+      "title": "Gemini — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 92,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "gemini",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-cancer-en-20260709",
+      "title": "Cancer — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 88,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "cancer",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-en-20260709",
+      "title": "Leo — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 94,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "leo",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-virgo-en-20260709",
+      "title": "Virgo — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 92,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "virgo",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-libra-en-20260709",
+      "title": "Libra — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 95,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "libra",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-scorpio-en-20260709",
+      "title": "Scorpio — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 93,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "scorpio",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-sagittarius-en-20260709",
+      "title": "Sagittarius — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 98,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-capricorn-en-20260709",
+      "title": "Capricorn — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 90,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-aquarius-en-20260709",
+      "title": "Aquarius — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
       "sizeKb": 96,
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "pisces",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-aries-mr-20260807",
-      "title": "मेष — 2026-08-07",
+      "id": "astro-pisces-en-20260709",
+      "title": "Pisces — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 87,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "pisces",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-aries-ta-20260709",
+      "title": "மேஷம் — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 99,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "aries",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-taurus-ta-20260709",
+      "title": "ரிஷபம் — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 107,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "taurus",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-gemini-ta-20260709",
+      "title": "மிதுனம் — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 106,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "gemini",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-cancer-ta-20260709",
+      "title": "கடகம் — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 100,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "cancer",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-ta-20260709",
+      "title": "சிம்மம் — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 105,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "leo",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-virgo-ta-20260709",
+      "title": "கன்னி — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 106,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "virgo",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-libra-ta-20260709",
+      "title": "துலாம் — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 105,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "libra",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-scorpio-ta-20260709",
+      "title": "விருச்சிகம் — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 106,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "scorpio",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-sagittarius-ta-20260709",
+      "title": "தனுசு — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 104,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-capricorn-ta-20260709",
+      "title": "மகரம் — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 100,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-aquarius-ta-20260709",
+      "title": "கும்பம் — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 105,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-pisces-ta-20260709",
+      "title": "மீனம் — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 105,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "pisces",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-aries-mr-20260709",
+      "title": "मेष — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 98,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "aries",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-taurus-mr-20260709",
+      "title": "वृषभ — 2026-07-09",
       "interests": [
         "astrology"
       ],
@@ -55907,14 +56180,140 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aries",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "taurus",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-taurus-mr-20260807",
-      "title": "वृषभ — 2026-08-07",
+      "id": "astro-gemini-mr-20260709",
+      "title": "मिथुन — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 107,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "gemini",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-cancer-mr-20260709",
+      "title": "कर्क — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 97,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "cancer",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-mr-20260709",
+      "title": "सिंह — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 102,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "leo",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-virgo-mr-20260709",
+      "title": "कन्या — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 105,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "virgo",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-libra-mr-20260709",
+      "title": "तूळ — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 102,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "libra",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-scorpio-mr-20260709",
+      "title": "वृश्चिक — 2026-07-09",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 108,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-09",
+      "sign": "scorpio",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "astro-sagittarius-mr-20260709",
+      "title": "धनु — 2026-07-09",
       "interests": [
         "astrology"
       ],
@@ -55928,14 +56327,14 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "taurus",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-gemini-mr-20260807",
-      "title": "मिथुन — 2026-08-07",
+      "id": "astro-capricorn-mr-20260709",
+      "title": "मकर — 2026-07-09",
       "interests": [
         "astrology"
       ],
@@ -55949,14 +56348,14 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "gemini",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-cancer-mr-20260807",
-      "title": "कर्क — 2026-08-07",
+      "id": "astro-aquarius-mr-20260709",
+      "title": "कुंभ — 2026-07-09",
       "interests": [
         "astrology"
       ],
@@ -55965,61 +56364,19 @@
         "female_warm"
       ],
       "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 105,
+      "durationSec": 17,
+      "sizeKb": 102,
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "cancer",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-leo-mr-20260807",
-      "title": "सिंह — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "marathi",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 106,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "leo",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-virgo-mr-20260807",
-      "title": "कन्या — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "marathi",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 105,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "virgo",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-libra-mr-20260807",
-      "title": "तूळ — 2026-08-07",
+      "id": "astro-pisces-mr-20260709",
+      "title": "मीन — 2026-07-09",
       "interests": [
         "astrology"
       ],
@@ -56033,165 +56390,98 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "libra",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-scorpio-mr-20260807",
-      "title": "वृश्चिक — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "marathi",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 100,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "scorpio",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-sagittarius-mr-20260807",
-      "title": "धनु — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "marathi",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 98,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "sagittarius",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-capricorn-mr-20260807",
-      "title": "मकर — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "marathi",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 104,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "capricorn",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-aquarius-mr-20260807",
-      "title": "कुंभ — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "marathi",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 99,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aquarius",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-pisces-mr-20260807",
-      "title": "मीन — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "marathi",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 18,
-      "sizeKb": 106,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
+      "date": "2026-07-09",
       "sign": "pisces",
-      "publishedDate": "2026-08-07",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-aries-te-20260807",
-      "title": "మేషం — 2026-08-07",
+      "id": "gita-10-38-en-20260709",
+      "title": "Gita Verse of the Day 10.38",
       "interests": [
-        "astrology"
+        "devotion"
       ],
-      "language": "telugu",
+      "language": "english",
+      "availableVoices": [
+        "devotional"
+      ],
+      "defaultVoice": "devotional",
+      "durationSec": 30,
+      "sizeKb": 174,
+      "attribution": "Bhagavad Gita (ancient Sanskrit, public domain). English translation: Swami Sivananda (public domain).",
+      "popularity": 65,
+      "type": "daily",
+      "date": "2026-07-09",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "gita-10-38-hi-20260709",
+      "title": "आज का गीता श्लोक 10.38",
+      "interests": [
+        "devotion"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "devotional"
+      ],
+      "defaultVoice": "devotional",
+      "durationSec": 32,
+      "sizeKb": 190,
+      "attribution": "Bhagavad Gita (ancient Sanskrit, public domain). English translation: Swami Sivananda (public domain). Hindi rendering machine-translated from the PD English.",
+      "popularity": 65,
+      "type": "daily",
+      "date": "2026-07-09",
+      "publishedDate": "2026-07-09",
+      "reachable": true
+    },
+    {
+      "id": "weather-hi-20260709",
+      "title": "आज का मौसम — 2026-07-09",
+      "interests": [
+        "news"
+      ],
+      "language": "hindi",
       "availableVoices": [
         "female_warm"
       ],
       "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 99,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
+      "durationSec": 59,
+      "sizeKb": 345,
+      "attribution": "Weather data: open-meteo.com (CC BY 4.0). Bulletin script original — Global Radio.",
+      "popularity": 62,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aries",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-taurus-te-20260807",
-      "title": "వృషభం — 2026-08-07",
+      "id": "weather-en-20260709",
+      "title": "Today's Weather — 2026-07-09",
       "interests": [
-        "astrology"
+        "news"
       ],
-      "language": "telugu",
+      "language": "english",
       "availableVoices": [
         "female_warm"
       ],
       "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 97,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
+      "durationSec": 49,
+      "sizeKb": 288,
+      "attribution": "Weather data: open-meteo.com (CC BY 4.0). Bulletin script original — Global Radio.",
+      "popularity": 62,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "taurus",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-09",
+      "publishedDate": "2026-07-09",
       "reachable": true
     },
     {
-      "id": "astro-gemini-te-20260807",
-      "title": "మిథునం — 2026-08-07",
+      "id": "astro-aries-ur-20260710",
+      "title": "حمل — 2026-07-10",
       "interests": [
         "astrology"
       ],
-      "language": "telugu",
+      "language": "urdu",
       "availableVoices": [
         "female_warm"
       ],
@@ -56201,14 +56491,1106 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "gemini",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-10",
+      "sign": "aries",
+      "publishedDate": "2026-07-10",
       "reachable": true
     },
     {
-      "id": "astro-cancer-te-20260807",
-      "title": "కర్కాటకం — 2026-08-07",
+      "id": "astro-taurus-ur-20260710",
+      "title": "ثور — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 93,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "taurus",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-gemini-ur-20260710",
+      "title": "جوزا — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 100,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "gemini",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-cancer-ur-20260710",
+      "title": "سرطان — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 98,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "cancer",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-ur-20260710",
+      "title": "اسد — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 92,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "leo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-virgo-ur-20260710",
+      "title": "سنبلہ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 97,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "virgo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-libra-ur-20260710",
+      "title": "میزان — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 99,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "libra",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-scorpio-ur-20260710",
+      "title": "عقرب — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 98,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "scorpio",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-sagittarius-ur-20260710",
+      "title": "قوس — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 93,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-capricorn-ur-20260710",
+      "title": "جدی — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 97,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-aquarius-ur-20260710",
+      "title": "دلو — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 98,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-pisces-ur-20260710",
+      "title": "حوت — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "urdu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 95,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "pisces",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-aries-ta-20260710",
+      "title": "மேஷம் — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 105,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aries",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-taurus-ta-20260710",
+      "title": "ரிஷபம் — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 100,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "taurus",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-gemini-ta-20260710",
+      "title": "மிதுனம் — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 107,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "gemini",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-cancer-ta-20260710",
+      "title": "கடகம் — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 19,
+      "sizeKb": 108,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "cancer",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-ta-20260710",
+      "title": "சிம்மம் — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 99,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "leo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-virgo-ta-20260710",
+      "title": "கன்னி — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 19,
+      "sizeKb": 109,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "virgo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-libra-ta-20260710",
+      "title": "துலாம் — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 108,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "libra",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-scorpio-ta-20260710",
+      "title": "விருச்சிகம் — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 19,
+      "sizeKb": 110,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "scorpio",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-sagittarius-ta-20260710",
+      "title": "தனுசு — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 105,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-capricorn-ta-20260710",
+      "title": "மகரம் — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 19,
+      "sizeKb": 109,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-aquarius-ta-20260710",
+      "title": "கும்பம் — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 19,
+      "sizeKb": 109,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-pisces-ta-20260710",
+      "title": "மீனம் — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "tamil",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 104,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "pisces",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-aries-mr-20260710",
+      "title": "मेष — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 103,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aries",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-taurus-mr-20260710",
+      "title": "वृषभ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 99,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "taurus",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-gemini-mr-20260710",
+      "title": "मिथुन — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 106,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "gemini",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-cancer-mr-20260710",
+      "title": "कर्क — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 105,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "cancer",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-mr-20260710",
+      "title": "सिंह — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 98,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "leo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-virgo-mr-20260710",
+      "title": "कन्या — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 105,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "virgo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-libra-mr-20260710",
+      "title": "तूळ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 105,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "libra",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-scorpio-mr-20260710",
+      "title": "वृश्चिक — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 108,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "scorpio",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-sagittarius-mr-20260710",
+      "title": "धनु — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 102,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-capricorn-mr-20260710",
+      "title": "मकर — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 106,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-aquarius-mr-20260710",
+      "title": "कुंभ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 105,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-pisces-mr-20260710",
+      "title": "मीन — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "marathi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 101,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "pisces",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-aries-kn-20260710",
+      "title": "ಮೇಷ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "kannada",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 91,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aries",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-taurus-kn-20260710",
+      "title": "ವೃಷಭ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "kannada",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 89,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "taurus",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-gemini-kn-20260710",
+      "title": "ಮಿಥುನ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "kannada",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 92,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "gemini",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-cancer-kn-20260710",
+      "title": "ಕರ್ಕಾಟಕ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "kannada",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 100,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "cancer",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-kn-20260710",
+      "title": "ಸಿಂಹ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "kannada",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 88,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "leo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-virgo-kn-20260710",
+      "title": "ಕನ್ಯಾ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "kannada",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 98,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "virgo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-libra-kn-20260710",
+      "title": "ತುಲಾ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "kannada",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 98,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "libra",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-scorpio-kn-20260710",
+      "title": "ವೃಶ್ಚಿಕ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "kannada",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 99,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "scorpio",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-sagittarius-kn-20260710",
+      "title": "ಧನು — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "kannada",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 91,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-capricorn-kn-20260710",
+      "title": "ಮಕರ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "kannada",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 99,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-aquarius-kn-20260710",
+      "title": "ಕುಂಭ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "kannada",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 98,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-pisces-kn-20260710",
+      "title": "ಮೀನ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "kannada",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 93,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "pisces",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-aries-te-20260710",
+      "title": "మేషం — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "telugu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 96,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aries",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-taurus-te-20260710",
+      "title": "వృషభం — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "telugu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 91,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "taurus",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-gemini-te-20260710",
+      "title": "మిథునం — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "telugu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 100,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "gemini",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-cancer-te-20260710",
+      "title": "కర్కాటకం — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "telugu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 103,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "cancer",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-te-20260710",
+      "title": "సింహం — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "telugu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 92,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "leo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-virgo-te-20260710",
+      "title": "కన్య — 2026-07-10",
       "interests": [
         "astrology"
       ],
@@ -56222,14 +57604,35 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "cancer",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-10",
+      "sign": "virgo",
+      "publishedDate": "2026-07-10",
       "reachable": true
     },
     {
-      "id": "astro-leo-te-20260807",
-      "title": "సింహం — 2026-08-07",
+      "id": "astro-libra-te-20260710",
+      "title": "తుల — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "telugu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 101,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "libra",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-scorpio-te-20260710",
+      "title": "వృశ్చికం — 2026-07-10",
       "interests": [
         "astrology"
       ],
@@ -56243,119 +57646,14 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "leo",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-virgo-te-20260807",
-      "title": "కన్య — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "telugu",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 99,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "virgo",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-libra-te-20260807",
-      "title": "తుల — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "telugu",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 17,
-      "sizeKb": 99,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "libra",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-scorpio-te-20260807",
-      "title": "వృశ్చికం — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "telugu",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 93,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
+      "date": "2026-07-10",
       "sign": "scorpio",
-      "publishedDate": "2026-08-07",
+      "publishedDate": "2026-07-10",
       "reachable": true
     },
     {
-      "id": "astro-sagittarius-te-20260807",
-      "title": "ధనుస్సు — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "telugu",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 93,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "sagittarius",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-capricorn-te-20260807",
-      "title": "మకరం — 2026-08-07",
-      "interests": [
-        "astrology"
-      ],
-      "language": "telugu",
-      "availableVoices": [
-        "female_warm"
-      ],
-      "defaultVoice": "female_warm",
-      "durationSec": 16,
-      "sizeKb": 96,
-      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
-      "popularity": 60,
-      "type": "daily",
-      "date": "2026-08-07",
-      "sign": "capricorn",
-      "publishedDate": "2026-08-07",
-      "reachable": true
-    },
-    {
-      "id": "astro-aquarius-te-20260807",
-      "title": "కుంభం — 2026-08-07",
+      "id": "astro-sagittarius-te-20260710",
+      "title": "ధనుస్సు — 2026-07-10",
       "interests": [
         "astrology"
       ],
@@ -56365,18 +57663,18 @@
       ],
       "defaultVoice": "female_warm",
       "durationSec": 17,
-      "sizeKb": 100,
+      "sizeKb": 97,
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "aquarius",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-10",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-10",
       "reachable": true
     },
     {
-      "id": "astro-pisces-te-20260807",
-      "title": "మీనం — 2026-08-07",
+      "id": "astro-capricorn-te-20260710",
+      "title": "మకరం — 2026-07-10",
       "interests": [
         "astrology"
       ],
@@ -56390,14 +57688,1316 @@
       "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
       "popularity": 60,
       "type": "daily",
-      "date": "2026-08-07",
-      "sign": "pisces",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-10",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-10",
       "reachable": true
     },
     {
-      "id": "gita-11-20-en-20260807",
-      "title": "Gita Verse of the Day 11.20",
+      "id": "astro-aquarius-te-20260710",
+      "title": "కుంభం — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "telugu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 100,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-pisces-te-20260710",
+      "title": "మీనం — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "telugu",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 101,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "pisces",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-aries-gu-20260710",
+      "title": "મેષ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 107,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aries",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-taurus-gu-20260710",
+      "title": "વૃષભ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 102,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "taurus",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-gemini-gu-20260710",
+      "title": "મિથુન — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 19,
+      "sizeKb": 113,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "gemini",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-cancer-gu-20260710",
+      "title": "કર્ક — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 19,
+      "sizeKb": 112,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "cancer",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-gu-20260710",
+      "title": "સિંહ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 102,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "leo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-virgo-gu-20260710",
+      "title": "કન્યા — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 19,
+      "sizeKb": 111,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "virgo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-libra-gu-20260710",
+      "title": "તુલા — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 19,
+      "sizeKb": 112,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "libra",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-scorpio-gu-20260710",
+      "title": "વૃશ્ચિક — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 19,
+      "sizeKb": 113,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "scorpio",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-sagittarius-gu-20260710",
+      "title": "ધનુ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 105,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-capricorn-gu-20260710",
+      "title": "મકર — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 19,
+      "sizeKb": 112,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-aquarius-gu-20260710",
+      "title": "કુંભ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 19,
+      "sizeKb": 111,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-pisces-gu-20260710",
+      "title": "મીન — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "gujarati",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 107,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "pisces",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-aries-hi-20260710",
+      "title": "मेष — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 103,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aries",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-taurus-hi-20260710",
+      "title": "वृषभ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 96,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "taurus",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-gemini-hi-20260710",
+      "title": "मिथुन — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 103,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "gemini",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-cancer-hi-20260710",
+      "title": "कर्क — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 106,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "cancer",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-hi-20260710",
+      "title": "सिंह — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 96,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "leo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-virgo-hi-20260710",
+      "title": "कन्या — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 105,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "virgo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-libra-hi-20260710",
+      "title": "तुला — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 106,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "libra",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-scorpio-hi-20260710",
+      "title": "वृश्चिक — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 107,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "scorpio",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-sagittarius-hi-20260710",
+      "title": "धनु — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 101,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-capricorn-hi-20260710",
+      "title": "मकर — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 105,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-aquarius-hi-20260710",
+      "title": "कुंभ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 107,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-pisces-hi-20260710",
+      "title": "मीन — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "hindi",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 18,
+      "sizeKb": 103,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "pisces",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-aries-ml-20260710",
+      "title": "മേടം — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 87,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aries",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-taurus-ml-20260710",
+      "title": "ഇടവം — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 14,
+      "sizeKb": 81,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "taurus",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-gemini-ml-20260710",
+      "title": "മിഥുനം — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 93,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "gemini",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-cancer-ml-20260710",
+      "title": "കർക്കടകം — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 92,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "cancer",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-ml-20260710",
+      "title": "ചിങ്ങം — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 14,
+      "sizeKb": 81,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "leo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-virgo-ml-20260710",
+      "title": "കന്നി — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 96,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "virgo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-libra-ml-20260710",
+      "title": "തുലാം — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 90,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "libra",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-scorpio-ml-20260710",
+      "title": "വൃശ്ചികം — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 92,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "scorpio",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-sagittarius-ml-20260710",
+      "title": "ധനു — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 92,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-capricorn-ml-20260710",
+      "title": "മകരം — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 91,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-aquarius-ml-20260710",
+      "title": "കുംഭം — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 96,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-pisces-ml-20260710",
+      "title": "മീനം — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "malayalam",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 90,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "pisces",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-aries-bn-20260710",
+      "title": "মেষ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "bengali",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 93,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aries",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-taurus-bn-20260710",
+      "title": "বৃষ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "bengali",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 88,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "taurus",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-gemini-bn-20260710",
+      "title": "মিথুন — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "bengali",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 94,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "gemini",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-cancer-bn-20260710",
+      "title": "কর্কট — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "bengali",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 95,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "cancer",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-bn-20260710",
+      "title": "সিংহ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "bengali",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 88,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "leo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-virgo-bn-20260710",
+      "title": "কন্যা — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "bengali",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 95,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "virgo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-libra-bn-20260710",
+      "title": "তুলা — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "bengali",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 95,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "libra",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-scorpio-bn-20260710",
+      "title": "বৃশ্চিক — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "bengali",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 96,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "scorpio",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-sagittarius-bn-20260710",
+      "title": "ধনু — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "bengali",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 93,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-capricorn-bn-20260710",
+      "title": "মকর — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "bengali",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 95,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-aquarius-bn-20260710",
+      "title": "কুম্ভ — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "bengali",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 94,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-pisces-bn-20260710",
+      "title": "মীন — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "bengali",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 89,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "pisces",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-aries-en-20260710",
+      "title": "Aries — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 96,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aries",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-taurus-en-20260710",
+      "title": "Taurus — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 89,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "taurus",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-gemini-en-20260710",
+      "title": "Gemini — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 93,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "gemini",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-cancer-en-20260710",
+      "title": "Cancer — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 100,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "cancer",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-leo-en-20260710",
+      "title": "Leo — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 87,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "leo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-virgo-en-20260710",
+      "title": "Virgo — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 99,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "virgo",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-libra-en-20260710",
+      "title": "Libra — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 99,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "libra",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-scorpio-en-20260710",
+      "title": "Scorpio — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 100,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "scorpio",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-sagittarius-en-20260710",
+      "title": "Sagittarius — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 16,
+      "sizeKb": 96,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "sagittarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-capricorn-en-20260710",
+      "title": "Capricorn — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 101,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "capricorn",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-aquarius-en-20260710",
+      "title": "Aquarius — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 17,
+      "sizeKb": 100,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "aquarius",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "astro-pisces-en-20260710",
+      "title": "Pisces — 2026-07-10",
+      "interests": [
+        "astrology"
+      ],
+      "language": "english",
+      "availableVoices": [
+        "female_warm"
+      ],
+      "defaultVoice": "female_warm",
+      "durationSec": 15,
+      "sizeKb": 87,
+      "attribution": "Original daily reading — Global Radio. Moon phase from JPL ephemeris.",
+      "popularity": 60,
+      "type": "daily",
+      "date": "2026-07-10",
+      "sign": "pisces",
+      "publishedDate": "2026-07-10",
+      "reachable": true
+    },
+    {
+      "id": "gita-14-27-en-20260710",
+      "title": "Gita Verse of the Day 14.27",
       "interests": [
         "devotion"
       ],
@@ -56406,18 +59006,18 @@
         "devotional"
       ],
       "defaultVoice": "devotional",
-      "durationSec": 32,
-      "sizeKb": 188,
+      "durationSec": 26,
+      "sizeKb": 153,
       "attribution": "Bhagavad Gita (ancient Sanskrit, public domain). English translation: Swami Sivananda (public domain).",
       "popularity": 65,
       "type": "daily",
-      "date": "2026-08-07",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-10",
+      "publishedDate": "2026-07-10",
       "reachable": true
     },
     {
-      "id": "gita-11-20-hi-20260807",
-      "title": "आज का गीता श्लोक 11.20",
+      "id": "gita-14-27-hi-20260710",
+      "title": "आज का गीता श्लोक 14.27",
       "interests": [
         "devotion"
       ],
@@ -56426,18 +59026,18 @@
         "devotional"
       ],
       "defaultVoice": "devotional",
-      "durationSec": 37,
-      "sizeKb": 216,
+      "durationSec": 28,
+      "sizeKb": 165,
       "attribution": "Bhagavad Gita (ancient Sanskrit, public domain). English translation: Swami Sivananda (public domain). Hindi rendering machine-translated from the PD English.",
       "popularity": 65,
       "type": "daily",
-      "date": "2026-08-07",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-10",
+      "publishedDate": "2026-07-10",
       "reachable": true
     },
     {
-      "id": "weather-hi-20260807",
-      "title": "आज का मौसम — 2026-08-07",
+      "id": "weather-hi-20260710",
+      "title": "आज का मौसम — 2026-07-10",
       "interests": [
         "news"
       ],
@@ -56446,18 +59046,18 @@
         "female_warm"
       ],
       "defaultVoice": "female_warm",
-      "durationSec": 57,
-      "sizeKb": 336,
+      "durationSec": 59,
+      "sizeKb": 345,
       "attribution": "Weather data: open-meteo.com (CC BY 4.0). Bulletin script original — Global Radio.",
       "popularity": 62,
       "type": "daily",
-      "date": "2026-08-07",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-10",
+      "publishedDate": "2026-07-10",
       "reachable": true
     },
     {
-      "id": "weather-en-20260807",
-      "title": "Today's Weather — 2026-08-07",
+      "id": "weather-en-20260710",
+      "title": "Today's Weather — 2026-07-10",
       "interests": [
         "news"
       ],
@@ -56467,12 +59067,12 @@
       ],
       "defaultVoice": "female_warm",
       "durationSec": 50,
-      "sizeKb": 292,
+      "sizeKb": 290,
       "attribution": "Weather data: open-meteo.com (CC BY 4.0). Bulletin script original — Global Radio.",
       "popularity": 62,
       "type": "daily",
-      "date": "2026-08-07",
-      "publishedDate": "2026-08-07",
+      "date": "2026-07-10",
+      "publishedDate": "2026-07-10",
       "reachable": true
     }
   ]

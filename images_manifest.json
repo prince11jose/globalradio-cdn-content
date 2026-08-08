@@ -99,11 +99,6 @@
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Humorism)"
   },
-  "ws-en-points-of-view-reppliera-plea-for-humor": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Nicki Dugan Pogue from San Francisco, USA — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Jared Fogle)"
-  },
   "ws-en-the-grey-wig-collectionthe-serio-comic-governess": {
     "panelCount": 1,
     "source": "commons",
@@ -123,11 +118,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Arthur Rackham — Public domain, via Wikimedia Commons (from Wikipedia: Folklore)"
-  },
-  "ws-en-a-dictionary-of-music-and-musiciansrolle": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
     "panelCount": 1,
@@ -299,6 +289,11 @@
     "source": "commons",
     "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
   },
+  "devotion-patience-prayer": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
+  },
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
@@ -307,7 +302,7 @@
   "devotion-new-week-blessing": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: No machine-readable author provided. Bachrach44 assumed (based on copyright claims). — Public domain, via Wikimedia Commons (from Wikipedia: Priestly Blessing)"
+    "attribution": "Photo: Valley2city‽ — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Birkat Hachama)"
   },
   "wisdom-vivekananda": {
     "panelCount": 1,

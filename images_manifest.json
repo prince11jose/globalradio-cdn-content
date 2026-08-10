@@ -7,7 +7,7 @@
   "ws-en-atharva-veda-samhitabook-xhymn-5": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Dosseman — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Anchises)"
+    "attribution": "Photo: Arvid Liljelund — Public domain, via Wikimedia Commons (from Wikipedia: Hymn)"
   },
   "ws-en-1911-encyclop-dia-britannicabr-hma-a": {
     "panelCount": 1,
@@ -22,7 +22,7 @@
   "ws-en-atharva-veda-samhitabook-xiihymn-1": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Friedrich August Rosen (1805–1837) — Public domain, via Wikimedia Commons (from Wikipedia: Rigveda 1.32)"
+    "attribution": "Photo: Exekias — CC BY 2.5, via Wikimedia Commons (from Wikipedia: Homeric Hymns)"
   },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
@@ -38,11 +38,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Annie Besant — Public domain, via Wikimedia Commons (from Wikipedia: An Introduction to Yoga)"
-  },
-  "ws-en-emanuel-swedenborg-scientist-and-mysticnotes-and": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Photo: chil, on Camptocamp.org\nDerivative work:Zacharie Grossen — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Matterhorn)"
   },
   "ws-en-the-discovery-of-radium": {
     "panelCount": 1,
@@ -69,10 +64,20 @@
     "source": "commons",
     "attribution": "Photo: William Shakespeare and unknown scribe — Public domain, via Wikimedia Commons (from Wikipedia: Incorporation by reference)"
   },
+  "ws-en-popular-science-monthlyvolume-39august-1891the-r": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Brian Chan tigerrulezzz — CC0, via Wikimedia Commons (from Wikipedia: List of Scottish inventions and discoveries)"
+  },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Johann Beckmann)"
+  },
+  "ws-en-popular-science-monthlyvolume-12november-1877the": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Marine steam engine)"
   },
   "ws-en-the-boys-life-of-mark-twain": {
     "panelCount": 1,
@@ -93,6 +98,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Humorism)"
+  },
+  "ws-en-points-of-view-reppliera-plea-for-humor": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Nicki Dugan Pogue from San Francisco, USA — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Jared Fogle)"
   },
   "ws-en-the-grey-wig-collectionthe-serio-comic-governess": {
     "panelCount": 1,
@@ -288,6 +298,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Kiran891 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: List of Teachers' Days)"
+  },
+  "devotion-new-week-blessing": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: No machine-readable author provided. Bachrach44 assumed (based on copyright claims). — Public domain, via Wikimedia Commons (from Wikipedia: Priestly Blessing)"
   },
   "wisdom-vivekananda": {
     "panelCount": 1,

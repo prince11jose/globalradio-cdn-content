@@ -7,7 +7,7 @@
   "ws-en-atharva-veda-samhitabook-xhymn-5": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Arvid Liljelund — Public domain, via Wikimedia Commons (from Wikipedia: Hymn)"
+    "attribution": "Photo: Dosseman — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Anchises)"
   },
   "ws-en-1911-encyclop-dia-britannicabr-hma-a": {
     "panelCount": 1,
@@ -74,11 +74,6 @@
     "source": "commons",
     "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Johann Beckmann)"
   },
-  "ws-en-popular-science-monthlyvolume-12november-1877the": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Nicolás Pérez — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Watt steam engine)"
-  },
   "ws-en-the-boys-life-of-mark-twain": {
     "panelCount": 1,
     "source": "commons",
@@ -98,11 +93,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Humorism)"
-  },
-  "ws-en-points-of-view-reppliera-plea-for-humor": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: James Tissot — Public domain, via Wikimedia Commons (from Wikipedia: The Bible and humor)"
   },
   "ws-en-the-grey-wig-collectionthe-serio-comic-governess": {
     "panelCount": 1,
@@ -217,7 +207,7 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: PresN — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Canidae)"
+    "attribution": "Photo: Hollingsworth, John and Karen. — Public domain, via Wikimedia Commons (from Wikipedia: Felidae)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
@@ -274,16 +264,6 @@
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Walter Rye)"
   },
-  "wp-en-devops-research-and-assessment": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Raysonho @ Open Grid Scheduler / Grid Engine — CC0, via Wikimedia Commons (from Wikipedia: DevOps Research and Assessment)"
-  },
-  "wp-en-dynatrace": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Gregor Hartl — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Dynatrace)"
-  },
   "devotion-inner-lamp": {
     "panelCount": 1,
     "source": "commons",
@@ -307,17 +287,17 @@
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
+    "attribution": "Photo: Kuebi = Armin Kübelbeck — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Compact fluorescent lamp)"
+  },
+  "devotion-patience-prayer": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
   },
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Kiran891 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: List of Teachers' Days)"
-  },
-  "wisdom-vivekananda": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: The original uploader was Dziewa at English Wikipedia. — Public domain, via Wikimedia Commons (from Wikipedia: Swami Vivekananda)"
   },
   "finance-what-is-sip": {
     "panelCount": 1,

@@ -7,7 +7,7 @@
   "ws-en-atharva-veda-samhitabook-xhymn-5": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Arvid Liljelund — Public domain, via Wikimedia Commons (from Wikipedia: Hymn)"
+    "attribution": "Photo: Dosseman — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Anchises)"
   },
   "ws-en-1911-encyclop-dia-britannicabr-hma-a": {
     "panelCount": 1,
@@ -64,20 +64,10 @@
     "source": "commons",
     "attribution": "Photo: Brian Chan tigerrulezzz — CC0, via Wikimedia Commons (from Wikipedia: List of Scottish inventions and discoveries)"
   },
-  "ws-en-popular-science-monthlyvolume-44january-1894inve": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
-  },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Johann Beckmann)"
-  },
-  "ws-en-popular-science-monthlyvolume-12november-1877the": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Nicolás Pérez — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Watt steam engine)"
   },
   "ws-en-the-boys-life-of-mark-twain": {
     "panelCount": 1,
@@ -98,11 +88,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Humorism)"
-  },
-  "ws-en-points-of-view-reppliera-plea-for-humor": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: James Tissot — Public domain, via Wikimedia Commons (from Wikipedia: The Bible and humor)"
   },
   "ws-en-the-grey-wig-collectionthe-serio-comic-governess": {
     "panelCount": 1,
@@ -127,7 +112,7 @@
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
+    "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansdictionaries": {
     "panelCount": 1,
@@ -217,7 +202,7 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: PresN — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Canidae)"
+    "attribution": "Photo: Hollingsworth, John and Karen. — Public domain, via Wikimedia Commons (from Wikipedia: Felidae)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
@@ -297,12 +282,17 @@
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
+    "attribution": "Photo: Kuebi = Armin Kübelbeck — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Compact fluorescent lamp)"
   },
-  "devotion-new-week-blessing": {
+  "devotion-patience-prayer": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: No machine-readable author provided. Bachrach44 assumed (based on copyright claims). — Public domain, via Wikimedia Commons (from Wikipedia: Priestly Blessing)"
+    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
+  },
+  "devotion-guru-gratitude": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Kiran891 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: List of Teachers' Days)"
   },
   "finance-what-is-sip": {
     "panelCount": 1,

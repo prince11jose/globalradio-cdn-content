@@ -39,6 +39,11 @@
     "source": "commons",
     "attribution": "Photo: Annie Besant — Public domain, via Wikimedia Commons (from Wikipedia: An Introduction to Yoga)"
   },
+  "ws-en-emanuel-swedenborg-scientist-and-mysticnotes-and": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Photo: chil, on Camptocamp.org\nDerivative work:Zacharie Grossen — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Matterhorn)"
+  },
   "ws-en-the-discovery-of-radium": {
     "panelCount": 1,
     "source": "commons",
@@ -53,6 +58,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Siemens Pressebild — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Technology)"
+  },
+  "ws-en-national-technology-transfer-and-advancement-act": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: William Shakespeare and unknown scribe — Public domain, via Wikimedia Commons (from Wikipedia: Incorporation by reference)"
   },
   "ws-en-popular-science-monthlyvolume-39august-1891the-r": {
     "panelCount": 1,
@@ -107,7 +117,7 @@
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
+    "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansdictionaries": {
     "panelCount": 1,
@@ -164,11 +174,6 @@
     "source": "commons",
     "attribution": "Photo: Cesare Maccari — Public domain, via Wikimedia Commons (from Wikipedia: Literary device)"
   },
-  "ws-en-catalogue-of-books-suitable-for-a-popular-librar": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Hokachung — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Travel)"
-  },
   "ws-en-the-riddle-and-other-storiesthe-bird-of-travel": {
     "panelCount": 1,
     "source": "commons",
@@ -197,7 +202,7 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: PresN — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Canidae)"
+    "attribution": "Photo: Hollingsworth, John and Karen. — Public domain, via Wikimedia Commons (from Wikipedia: Felidae)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
@@ -283,11 +288,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
-  },
-  "finance-what-is-sip": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

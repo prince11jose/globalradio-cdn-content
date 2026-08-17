@@ -22,7 +22,7 @@
   "ws-en-atharva-veda-samhitabook-xiihymn-1": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Exekias — CC BY 2.5, via Wikimedia Commons (from Wikipedia: Homeric Hymns)"
+    "attribution": "Photo: Friedrich August Rosen (1805–1837) — Public domain, via Wikimedia Commons (from Wikipedia: Rigveda 1.32)"
   },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
@@ -59,10 +59,10 @@
     "source": "commons",
     "attribution": "Photo: Siemens Pressebild — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Technology)"
   },
-  "ws-en-popular-science-monthlyvolume-39august-1891the-r": {
+  "ws-en-national-technology-transfer-and-advancement-act": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Brian Chan tigerrulezzz — CC0, via Wikimedia Commons (from Wikipedia: List of Scottish inventions and discoveries)"
+    "attribution": "Photo: William Shakespeare and unknown scribe — Public domain, via Wikimedia Commons (from Wikipedia: Incorporation by reference)"
   },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
@@ -88,11 +88,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Humorism)"
-  },
-  "ws-en-points-of-view-reppliera-plea-for-humor": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: James Tissot — Public domain, via Wikimedia Commons (from Wikipedia: The Bible and humor)"
   },
   "ws-en-the-grey-wig-collectionthe-serio-comic-governess": {
     "panelCount": 1,
@@ -133,11 +128,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Catholic literary revival)"
-  },
-  "ws-en-how-to-write-a-short-story": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: A Predicament)"
   },
   "ws-en-beyond-fantasy-fiction1953": {
     "panelCount": 1,
@@ -279,10 +269,15 @@
     "source": "commons",
     "attribution": "Photo: Kuebi = Armin Kübelbeck — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Compact fluorescent lamp)"
   },
-  "wisdom-vivekananda": {
+  "devotion-patience-prayer": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: The original uploader was Dziewa at English Wikipedia. — Public domain, via Wikimedia Commons (from Wikipedia: Swami Vivekananda)"
+    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
+  },
+  "finance-what-is-sip": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

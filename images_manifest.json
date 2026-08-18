@@ -22,7 +22,7 @@
   "ws-en-atharva-veda-samhitabook-xiihymn-1": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Friedrich August Rosen (1805–1837) — Public domain, via Wikimedia Commons (from Wikipedia: Rigveda 1.32)"
+    "attribution": "Photo: Exekias — CC BY 2.5, via Wikimedia Commons (from Wikipedia: Homeric Hymns)"
   },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
@@ -49,6 +49,11 @@
     "source": "commons",
     "attribution": "Photo: grenadier — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Radium)"
   },
+  "ws-en-the-discovery-of-guianaintroductory-note": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: DEMIS Mapserver, पाटलिपुत्र — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Sogdia)"
+  },
   "ws-en-emanuel-swedenborg-scientist-and-mystic": {
     "panelCount": 1,
     "source": "commons",
@@ -74,6 +79,11 @@
     "source": "commons",
     "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Johann Beckmann)"
   },
+  "ws-en-popular-science-monthlyvolume-12november-1877the": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Nicolás Pérez — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Watt steam engine)"
+  },
   "ws-en-the-boys-life-of-mark-twain": {
     "panelCount": 1,
     "source": "commons",
@@ -94,6 +104,11 @@
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Humorism)"
   },
+  "ws-en-points-of-view-reppliera-plea-for-humor": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: James Tissot — Public domain, via Wikimedia Commons (from Wikipedia: The Bible and humor)"
+  },
   "ws-en-the-grey-wig-collectionthe-serio-comic-governess": {
     "panelCount": 1,
     "source": "commons",
@@ -113,6 +128,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
+  },
+  "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Roger Davies — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Dorchester on Thames)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansdictionaries": {
     "panelCount": 1,
@@ -278,11 +298,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Kuebi = Armin Kübelbeck — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Compact fluorescent lamp)"
-  },
-  "devotion-patience-prayer": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
   },
   "finance-what-is-sip": {
     "panelCount": 1,

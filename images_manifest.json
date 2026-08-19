@@ -22,7 +22,7 @@
   "ws-en-atharva-veda-samhitabook-xiihymn-1": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Exekias — CC BY 2.5, via Wikimedia Commons (from Wikipedia: Homeric Hymns)"
+    "attribution": "Photo: Friedrich August Rosen (1805–1837) — Public domain, via Wikimedia Commons (from Wikipedia: Rigveda 1.32)"
   },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
@@ -38,11 +38,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Annie Besant — Public domain, via Wikimedia Commons (from Wikipedia: An Introduction to Yoga)"
-  },
-  "ws-en-emanuel-swedenborg-scientist-and-mysticnotes-and": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Photo: chil, on Camptocamp.org\nDerivative work:Zacharie Grossen — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Matterhorn)"
   },
   "ws-en-the-discovery-of-radium": {
     "panelCount": 1,
@@ -74,11 +69,6 @@
     "source": "commons",
     "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Johann Beckmann)"
   },
-  "ws-en-popular-science-monthlyvolume-12november-1877the": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Marine steam engine)"
-  },
   "ws-en-the-boys-life-of-mark-twain": {
     "panelCount": 1,
     "source": "commons",
@@ -98,11 +88,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Humorism)"
-  },
-  "ws-en-points-of-view-reppliera-plea-for-humor": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: James Tissot — Public domain, via Wikimedia Commons (from Wikipedia: The Bible and humor)"
   },
   "ws-en-the-grey-wig-collectionthe-serio-comic-governess": {
     "panelCount": 1,
@@ -127,7 +112,7 @@
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
+    "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansdictionaries": {
     "panelCount": 1,
@@ -138,11 +123,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Anton von Werner — Public domain, via Wikimedia Commons (from Wikipedia: Ars Poetica (Horace))"
-  },
-  "ws-en-the-spirit-of-poetry": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Catholic literary revival)"
   },
   "ws-en-beyond-fantasy-fiction1953": {
     "panelCount": 1,
@@ -179,6 +159,11 @@
     "source": "commons",
     "attribution": "Photo: Klügmann Painter — Public domain, via Wikimedia Commons (from Wikipedia: Reading)"
   },
+  "ws-en-catalogue-of-books-suitable-for-a-popular-librar": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Hokachung — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Travel)"
+  },
   "ws-en-the-riddle-and-other-storiesthe-bird-of-travel": {
     "panelCount": 1,
     "source": "commons",
@@ -207,7 +192,7 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: PresN — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Canidae)"
+    "attribution": "Photo: Hollingsworth, John and Karen. — Public domain, via Wikimedia Commons (from Wikipedia: Felidae)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
@@ -287,7 +272,17 @@
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Kuebi = Armin Kübelbeck — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Compact fluorescent lamp)"
+    "attribution": "Photo: FASTILY (TALK) — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Blacklight)"
+  },
+  "devotion-patience-prayer": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
+  },
+  "finance-what-is-sip": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

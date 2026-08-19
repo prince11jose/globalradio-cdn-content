@@ -112,7 +112,12 @@
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
+    "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
+  },
+  "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Roger Davies — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Dorchester on Thames)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansdictionaries": {
     "panelCount": 1,
@@ -249,6 +254,11 @@
     "source": "commons",
     "attribution": "Photo: Flickr user Oimax \n\n\n\n\n\n\nThis image was originally posted to Flickr by OiMax at https://www.flickr.com/photos/72396314@N00/404614118. It was reviewed on 20 May 2007 by FlickreviewR and was confirmed to be licensed under the terms of the cc-by-2.0.\n20 May 2007 — CC BY 2.0, via Wikimedia Commons (from Wikipedia: Fluorescent lamp)"
   },
+  "devotion-thanks-for-food": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Peggy Greb, USDA ARS — Public domain, via Wikimedia Commons (from Wikipedia: Birkat Hamazon)"
+  },
   "devotion-river-of-peace": {
     "panelCount": 1,
     "source": "commons",
@@ -263,11 +273,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
-  },
-  "devotion-patience-prayer": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
   },
   "finance-what-is-sip": {
     "panelCount": 1,

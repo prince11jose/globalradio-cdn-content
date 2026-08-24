@@ -4,11 +4,6 @@
     "source": "commons",
     "attribution": "Photo: Ms Sarah Welch — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Vedas)"
   },
-  "ws-en-atharva-veda-samhitabook-xhymn-5": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Arvid Liljelund — Public domain, via Wikimedia Commons (from Wikipedia: Hymn)"
-  },
   "ws-en-1911-encyclop-dia-britannicabr-hma-a": {
     "panelCount": 1,
     "source": "commons",
@@ -22,7 +17,7 @@
   "ws-en-atharva-veda-samhitabook-xiihymn-1": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Exekias — CC BY 2.5, via Wikimedia Commons (from Wikipedia: Homeric Hymns)"
+    "attribution": "Photo: Friedrich August Rosen (1805–1837) — Public domain, via Wikimedia Commons (from Wikipedia: Rigveda 1.32)"
   },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
@@ -282,7 +277,12 @@
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
+    "attribution": "Photo: KMJ, alpha masking by Edokter — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Incandescent light bulb)"
+  },
+  "finance-what-is-sip": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

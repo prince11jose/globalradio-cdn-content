@@ -99,11 +99,6 @@
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Humorism)"
   },
-  "ws-en-points-of-view-reppliera-plea-for-humor": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Nicki Dugan Pogue from San Francisco, USA — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Jared Fogle)"
-  },
   "ws-en-the-grey-wig-collectionthe-serio-comic-governess": {
     "panelCount": 1,
     "source": "commons",
@@ -229,11 +224,6 @@
     "source": "commons",
     "attribution": "Photo: Ticknor and Fields/Nathaniel Hawthorne — Public domain, via Wikimedia Commons (from Wikipedia: The House of the Seven Gables)"
   },
-  "ws-en-popular-science-monthlyvolume-82may-1913heredity": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Imc5howl — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Warren G. Phillips)"
-  },
   "ws-en-custom-and-myththe-early-history-of-the-family": {
     "panelCount": 1,
     "source": "commons",
@@ -304,6 +294,11 @@
     "source": "commons",
     "attribution": "Photo: Kiran891 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: List of Teachers' Days)"
   },
+  "devotion-new-week-blessing": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: No machine-readable author provided. Bachrach44 assumed (based on copyright claims). — Public domain, via Wikimedia Commons (from Wikipedia: Priestly Blessing)"
+  },
   "wisdom-vivekananda": {
     "panelCount": 1,
     "source": "commons",
@@ -318,5 +313,10 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Brian T Richards — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Aloha IslandAir Flight 1712)"
+  },
+  "finance-budget-50-30-20": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Harris &amp; Ewing, photographer — Public domain, via Wikimedia Commons (from Wikipedia: Personal budget)"
   }
 }

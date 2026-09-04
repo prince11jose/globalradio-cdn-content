@@ -59,6 +59,11 @@
     "source": "commons",
     "attribution": "Photo: Siemens Pressebild — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Technology)"
   },
+  "ws-en-national-technology-transfer-and-advancement-act": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: William Shakespeare and unknown scribe — Public domain, via Wikimedia Commons (from Wikipedia: Incorporation by reference)"
+  },
   "ws-en-popular-science-monthlyvolume-39august-1891the-r": {
     "panelCount": 1,
     "source": "commons",
@@ -123,6 +128,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
+  },
+  "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Roger Davies — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Dorchester on Thames)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansdictionaries": {
     "panelCount": 1,
@@ -282,7 +292,7 @@
   "devotion-night-surrender": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Thomas Nast — Public domain, via Wikimedia Commons (from Wikipedia: Battle of Appomattox Court House)"
+    "attribution": "Photo: Army Signal Corps photographer LT. Stephen E. Korpanty; restored by Adam Cuerden — Public domain, via Wikimedia Commons (from Wikipedia: Surrender of Japan)"
   },
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
@@ -294,24 +304,19 @@
     "source": "commons",
     "attribution": "Photo: Kiran891 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: List of Teachers' Days)"
   },
-  "devotion-new-week-blessing": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: No machine-readable author provided. Bachrach44 assumed (based on copyright claims). — Public domain, via Wikimedia Commons (from Wikipedia: Priestly Blessing)"
-  },
   "wisdom-vivekananda": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: The original uploader was Dziewa at English Wikipedia. — Public domain, via Wikimedia Commons (from Wikipedia: Swami Vivekananda)"
   },
+  "finance-what-is-sip": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
+  },
   "finance-upi-safety": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Brian T Richards — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Aloha IslandAir Flight 1712)"
-  },
-  "finance-budget-50-30-20": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Harris &amp; Ewing, photographer — Public domain, via Wikimedia Commons (from Wikipedia: Personal budget)"
   }
 }

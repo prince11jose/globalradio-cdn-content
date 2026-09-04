@@ -129,11 +129,6 @@
     "source": "commons",
     "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
   },
-  "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Roger Davies — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Dorchester on Thames)"
-  },
   "ws-en-a-dictionary-of-music-and-musiciansdictionaries": {
     "panelCount": 1,
     "source": "commons",
@@ -222,7 +217,7 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Charles Darwin — Public domain, via Wikimedia Commons (from Wikipedia: Evolution)"
+    "attribution": "Photo: PresN — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Canidae)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
@@ -318,5 +313,10 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Brian T Richards — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Aloha IslandAir Flight 1712)"
+  },
+  "finance-budget-50-30-20": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Harris &amp; Ewing, photographer — Public domain, via Wikimedia Commons (from Wikipedia: Personal budget)"
   }
 }

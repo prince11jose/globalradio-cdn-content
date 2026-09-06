@@ -69,6 +69,11 @@
     "source": "commons",
     "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Johann Beckmann)"
   },
+  "ws-en-popular-science-monthlyvolume-12november-1877the": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Nicolás Pérez — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Watt steam engine)"
+  },
   "ws-en-the-boys-life-of-mark-twain": {
     "panelCount": 1,
     "source": "commons",
@@ -279,6 +284,11 @@
     "source": "commons",
     "attribution": "Photo: KMJ, alpha masking by Edokter — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Incandescent light bulb)"
   },
+  "devotion-patience-prayer": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
+  },
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
@@ -298,10 +308,5 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Brian T Richards — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Aloha IslandAir Flight 1712)"
-  },
-  "finance-budget-50-30-20": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Harris &amp; Ewing, photographer — Public domain, via Wikimedia Commons (from Wikipedia: Personal budget)"
   }
 }

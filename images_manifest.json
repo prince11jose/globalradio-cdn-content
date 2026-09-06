@@ -202,7 +202,7 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: PresN — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Canidae)"
+    "attribution": "Photo: Charles Darwin — Public domain, via Wikimedia Commons (from Wikipedia: Evolution)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
@@ -259,6 +259,51 @@
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Walter Rye)"
   },
+  "ws-en-1911-encyclop-dia-britannicazodiac": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Tauʻolunga — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Zodiac)"
+  },
+  "ws-en-simplified-scientific-astrologysigns-and-houses": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Limbourg brothers — Public domain, via Wikimedia Commons (from Wikipedia: Astrological sign)"
+  },
+  "ws-en-the-fables-of-sop-jacobsa-short-history-of-the-s": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
+  },
+  "ws-en-the-encyclopedia-americana-1920childrens-literat": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Smith, Jessie Willcox, 1863-1935 (artist); L. Prang &amp; Co. (publisher) — Public domain, via Wikimedia Commons (from Wikipedia: Children's literature)"
+  },
+  "ws-en-fables-aesop": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
+  },
+  "ws-en-the-blue-fairy-book": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: The Langs' Fairy Books)"
+  },
+  "ws-en-1911-encyclop-dia-britannicafable": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Fable)"
+  },
+  "ws-en-poems-of-passiona-fable": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Fable)"
+  },
+  "ws-en-sops-fables-v-s-vernon-jones": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
+  },
   "devotion-inner-lamp": {
     "panelCount": 1,
     "source": "commons",
@@ -284,6 +329,11 @@
     "source": "commons",
     "attribution": "Photo: Flickr user Oimax \n\n\n\n\n\n\nThis image was originally posted to Flickr by OiMax at https://www.flickr.com/photos/72396314@N00/404614118. It was reviewed on 20 May 2007 by FlickreviewR and was confirmed to be licensed under the terms of the cc-by-2.0.\n\n\n20 May 2007 — CC BY 2.0, via Wikimedia Commons (from Wikipedia: Fluorescent lamp)"
   },
+  "devotion-patience-prayer": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
+  },
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
@@ -303,10 +353,5 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Brian T Richards — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Aloha IslandAir Flight 1712)"
-  },
-  "finance-budget-50-30-20": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Harris &amp; Ewing, photographer — Public domain, via Wikimedia Commons (from Wikipedia: Personal budget)"
   }
 }

@@ -182,7 +182,7 @@
   "ws-en-catalogue-of-books-suitable-for-a-popular-librar": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Richard Wilhelm (trans) — Public domain, via Wikimedia Commons (from Wikipedia: Astral projection)"
+    "attribution": "Photo: Hokachung — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Travel)"
   },
   "ws-en-the-riddle-and-other-storiesthe-bird-of-travel": {
     "panelCount": 1,
@@ -288,6 +288,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
+  },
+  "devotion-patience-prayer": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
   },
   "devotion-guru-gratitude": {
     "panelCount": 1,

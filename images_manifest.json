@@ -17,7 +17,7 @@
   "ws-en-atharva-veda-samhitabook-xiihymn-1": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Exekias — CC BY 2.5, via Wikimedia Commons (from Wikipedia: Homeric Hymns)"
+    "attribution": "Photo: Friedrich August Rosen (1805–1837) — Public domain, via Wikimedia Commons (from Wikipedia: Rigveda 1.32)"
   },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
@@ -33,6 +33,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Annie Besant — Public domain, via Wikimedia Commons (from Wikipedia: An Introduction to Yoga)"
+  },
+  "ws-en-emanuel-swedenborg-scientist-and-mysticnotes-and": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Photo: chil, on Camptocamp.org\nDerivative work:Zacharie Grossen — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Matterhorn)"
   },
   "ws-en-the-discovery-of-radium": {
     "panelCount": 1,
@@ -108,6 +113,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Chemical Engineer — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Royal Academy of Dramatic Art)"
+  },
+  "ws-en-the-harvard-classics-vol-51drama-iii": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: John Leech — Public domain, via Wikimedia Commons (from Wikipedia: Drama)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
@@ -202,7 +212,7 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: PresN — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Canidae)"
+    "attribution": "Photo: Charles Darwin — Public domain, via Wikimedia Commons (from Wikipedia: Evolution)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
@@ -277,12 +287,7 @@
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: KMJ, alpha masking by Edokter — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Incandescent light bulb)"
-  },
-  "devotion-patience-prayer": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
+    "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
   },
   "devotion-guru-gratitude": {
     "panelCount": 1,

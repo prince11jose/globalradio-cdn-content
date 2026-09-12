@@ -22,7 +22,7 @@
   "ws-en-atharva-veda-samhitabook-xiihymn-1": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Exekias — CC BY 2.5, via Wikimedia Commons (from Wikipedia: Homeric Hymns)"
+    "attribution": "Photo: Friedrich August Rosen (1805–1837) — Public domain, via Wikimedia Commons (from Wikipedia: Rigveda 1.32)"
   },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
@@ -308,6 +308,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
+  },
+  "finance-beware-ponzi": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Philip Romano — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: R. L. Stine)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

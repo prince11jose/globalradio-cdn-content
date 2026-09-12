@@ -139,6 +139,11 @@
     "source": "commons",
     "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Catholic literary revival)"
   },
+  "ws-en-how-to-write-a-short-story": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: A Predicament)"
+  },
   "ws-en-beyond-fantasy-fiction1953": {
     "panelCount": 1,
     "source": "commons",
@@ -219,6 +224,11 @@
     "source": "commons",
     "attribution": "Photo: Ticknor and Fields/Nathaniel Hawthorne — Public domain, via Wikimedia Commons (from Wikipedia: The House of the Seven Gables)"
   },
+  "ws-en-popular-science-monthlyvolume-82may-1913heredity": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Fred Hartsook — Public domain, via Wikimedia Commons (from Wikipedia: Luther Burbank)"
+  },
   "ws-en-custom-and-myththe-early-history-of-the-family": {
     "panelCount": 1,
     "source": "commons",
@@ -282,17 +292,17 @@
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: FASTILY (TALK) — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Blacklight)"
+    "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
+  },
+  "devotion-patience-prayer": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
   },
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Kiran891 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: List of Teachers' Days)"
-  },
-  "devotion-new-week-blessing": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: No machine-readable author provided. Bachrach44 assumed (based on copyright claims). — Public domain, via Wikimedia Commons (from Wikipedia: Priestly Blessing)"
   },
   "wisdom-vivekananda": {
     "panelCount": 1,

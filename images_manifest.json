@@ -39,6 +39,11 @@
     "source": "commons",
     "attribution": "Photo: Annie Besant — Public domain, via Wikimedia Commons (from Wikipedia: An Introduction to Yoga)"
   },
+  "ws-en-emanuel-swedenborg-scientist-and-mysticnotes-and": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Photo: chil, on Camptocamp.org\nDerivative work:Zacharie Grossen — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Matterhorn)"
+  },
   "ws-en-the-discovery-of-radium": {
     "panelCount": 1,
     "source": "commons",
@@ -64,11 +69,6 @@
     "source": "commons",
     "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
   },
-  "ws-en-proclamation-4721": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: anonymous — Public domain, via Wikimedia Commons (from Wikipedia: Catherine Parr)"
-  },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
     "source": "commons",
@@ -87,7 +87,7 @@
   "ws-en-essays-in-idlenesswit-and-humor": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: James Tissot — Public domain, via Wikimedia Commons (from Wikipedia: The Bible and humor)"
+    "attribution": "Photo: Staff Sgt. Marc Lane — Public domain, via Wikimedia Commons (from Wikipedia: Humour)"
   },
   "ws-en-popular-science-monthlyvolume-73august-1908the-n": {
     "panelCount": 1,
@@ -117,7 +117,7 @@
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
+    "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansdictionaries": {
     "panelCount": 1,
@@ -287,7 +287,7 @@
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
+    "attribution": "Photo: W.carter — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Sodium-vapor lamp)"
   },
   "devotion-guru-gratitude": {
     "panelCount": 1,
@@ -302,16 +302,16 @@
   "wisdom-vivekananda": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: The original uploader was Dziewa at English Wikipedia. — Public domain, via Wikimedia Commons (from Wikipedia: Swami Vivekananda)"
-  },
-  "finance-what-is-sip": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
+    "attribution": "Photo: The original uploader was Dziewa at English Wikipedia. — Public domain, via Wikimedia Commons (from Wikipedia: Swami Vivekananda at the Parliament of the World's Religions)"
   },
   "finance-upi-safety": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Brian T Richards — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Aloha IslandAir Flight 1712)"
+  },
+  "finance-budget-50-30-20": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Harris &amp; Ewing, photographer — Public domain, via Wikimedia Commons (from Wikipedia: Personal budget)"
   }
 }

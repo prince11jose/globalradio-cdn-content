@@ -39,6 +39,11 @@
     "source": "commons",
     "attribution": "Photo: Annie Besant — Public domain, via Wikimedia Commons (from Wikipedia: An Introduction to Yoga)"
   },
+  "ws-en-emanuel-swedenborg-scientist-and-mysticnotes-and": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Photo: chil, on Camptocamp.org\nDerivative work:Zacharie Grossen — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Matterhorn)"
+  },
   "ws-en-the-discovery-of-radium": {
     "panelCount": 1,
     "source": "commons",
@@ -107,7 +112,7 @@
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
+    "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansdictionaries": {
     "panelCount": 1,
@@ -164,11 +169,6 @@
     "source": "commons",
     "attribution": "Photo: Klügmann Painter — Public domain, via Wikimedia Commons (from Wikipedia: Reading)"
   },
-  "ws-en-catalogue-of-books-suitable-for-a-popular-librar": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Joseph Karl Stieler — Public domain, via Wikimedia Commons (from Wikipedia: Cosmos (Humboldt book))"
-  },
   "ws-en-the-riddle-and-other-storiesthe-bird-of-travel": {
     "panelCount": 1,
     "source": "commons",
@@ -197,7 +197,7 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: PresN — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Canidae)"
+    "attribution": "Photo: Hollingsworth, John and Karen. — Public domain, via Wikimedia Commons (from Wikipedia: Felidae)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
@@ -297,7 +297,7 @@
   "wisdom-vivekananda": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: The original uploader was Dziewa at English Wikipedia. — Public domain, via Wikimedia Commons (from Wikipedia: Swami Vivekananda)"
+    "attribution": "Photo: The original uploader was Dziewa at English Wikipedia. — Public domain, via Wikimedia Commons (from Wikipedia: Swami Vivekananda at the Parliament of the World's Religions)"
   },
   "finance-what-is-sip": {
     "panelCount": 1,
@@ -308,10 +308,5 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Brian T Richards — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Aloha IslandAir Flight 1712)"
-  },
-  "finance-budget-50-30-20": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Harris &amp; Ewing, photographer — Public domain, via Wikimedia Commons (from Wikipedia: Personal budget)"
   }
 }

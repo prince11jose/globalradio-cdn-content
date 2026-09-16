@@ -4,6 +4,11 @@
     "source": "commons",
     "attribution": "Photo: Ms Sarah Welch — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Vedas)"
   },
+  "ws-en-atharva-veda-samhitabook-xhymn-5": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Arvid Liljelund — Public domain, via Wikimedia Commons (from Wikipedia: Hymn)"
+  },
   "ws-en-1911-encyclop-dia-britannicabr-hma-a": {
     "panelCount": 1,
     "source": "commons",
@@ -13,11 +18,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Ms Sarah Welch — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Vedas)"
-  },
-  "ws-en-atharva-veda-samhitabook-xiihymn-1": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Friedrich August Rosen (1805–1837) — Public domain, via Wikimedia Commons (from Wikipedia: Rigveda 1.32)"
   },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
@@ -97,7 +97,12 @@
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
+    "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
+  },
+  "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Roger Davies — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Dorchester on Thames)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansdictionaries": {
     "panelCount": 1,
@@ -154,6 +159,11 @@
     "source": "commons",
     "attribution": "Photo: Klügmann Painter — Public domain, via Wikimedia Commons (from Wikipedia: Reading)"
   },
+  "ws-en-catalogue-of-books-suitable-for-a-popular-librar": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Joseph Karl Stieler — Public domain, via Wikimedia Commons (from Wikipedia: Cosmos (Humboldt book))"
+  },
   "ws-en-the-riddle-and-other-storiesthe-bird-of-travel": {
     "panelCount": 1,
     "source": "commons",
@@ -182,7 +192,7 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Charles Darwin — Public domain, via Wikimedia Commons (from Wikipedia: Evolution)"
+    "attribution": "Photo: PresN — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Canidae)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
@@ -262,22 +272,22 @@
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: W.carter — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Sodium-vapor lamp)"
+    "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
   },
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Kiran891 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: List of Teachers' Days)"
   },
-  "devotion-new-week-blessing": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: No machine-readable author provided. Bachrach44 assumed (based on copyright claims). — Public domain, via Wikimedia Commons (from Wikipedia: Priestly Blessing)"
-  },
   "wisdom-vivekananda": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: The original uploader was Dziewa at English Wikipedia. — Public domain, via Wikimedia Commons (from Wikipedia: Swami Vivekananda at the Parliament of the World's Religions)"
+  },
+  "finance-what-is-sip": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

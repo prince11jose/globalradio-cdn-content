@@ -104,6 +104,11 @@
     "source": "commons",
     "attribution": "Photo: Chemical Engineer — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Royal Academy of Dramatic Art)"
   },
+  "ws-en-the-harvard-classics-vol-51drama-iii": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: John Leech — Public domain, via Wikimedia Commons (from Wikipedia: Drama)"
+  },
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
@@ -123,6 +128,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Catholic literary revival)"
+  },
+  "ws-en-how-to-write-a-short-story": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: A Predicament)"
   },
   "ws-en-beyond-fantasy-fiction1953": {
     "panelCount": 1,
@@ -192,7 +202,7 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Hollingsworth, John and Karen. — Public domain, via Wikimedia Commons (from Wikipedia: Felidae)"
+    "attribution": "Photo: PresN — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Canidae)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
@@ -254,11 +264,6 @@
     "source": "commons",
     "attribution": "Photo: Flickr user Oimax \n\n\n\n\n\n\nThis image was originally posted to Flickr by OiMax at https://www.flickr.com/photos/72396314@N00/404614118. It was reviewed on 20 May 2007 by FlickreviewR and was confirmed to be licensed under the terms of the cc-by-2.0.\n\n\n20 May 2007 — CC BY 2.0, via Wikimedia Commons (from Wikipedia: Fluorescent lamp)"
   },
-  "devotion-thanks-for-food": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Willem van de Poll — CC0, via Wikimedia Commons (from Wikipedia: Kiddush)"
-  },
   "devotion-river-of-peace": {
     "panelCount": 1,
     "source": "commons",
@@ -268,11 +273,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Pompeo Batoni — CC0, via Wikimedia Commons (from Wikipedia: Sacred Heart)"
-  },
-  "devotion-night-surrender": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Army Signal Corps photographer LT. Stephen E. Korpanty; restored by Adam Cuerden — Public domain, via Wikimedia Commons (from Wikipedia: Surrender of Japan)"
   },
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
@@ -293,6 +293,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: The original uploader was Dziewa at English Wikipedia. — Public domain, via Wikimedia Commons (from Wikipedia: Swami Vivekananda at the Parliament of the World's Religions)"
+  },
+  "finance-what-is-sip": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

@@ -19,6 +19,11 @@
     "source": "commons",
     "attribution": "Photo: Ms Sarah Welch — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Vedas)"
   },
+  "ws-en-atharva-veda-samhitabook-xiihymn-1": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Friedrich August Rosen (1805–1837) — Public domain, via Wikimedia Commons (from Wikipedia: Rigveda 1.32)"
+  },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
     "source": "commons",
@@ -33,11 +38,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Annie Besant — Public domain, via Wikimedia Commons (from Wikipedia: An Introduction to Yoga)"
-  },
-  "ws-en-emanuel-swedenborg-scientist-and-mysticnotes-and": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Aden TV — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Mahdi al-Mashat)"
   },
   "ws-en-the-discovery-of-radium": {
     "panelCount": 1,
@@ -197,7 +197,7 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: PresN — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Canidae)"
+    "attribution": "Photo: Hollingsworth, John and Karen. — Public domain, via Wikimedia Commons (from Wikipedia: Felidae)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
@@ -262,7 +262,7 @@
   "devotion-river-of-peace": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Jeffrey Wynne — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Peace River)"
+    "attribution": "Photo: awmcphee — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Peace River, Alberta)"
   },
   "devotion-morning-resolve": {
     "panelCount": 1,
@@ -303,10 +303,5 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Brian T Richards — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Aloha IslandAir Flight 1712)"
-  },
-  "finance-budget-50-30-20": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Harris &amp; Ewing, photographer — Public domain, via Wikimedia Commons (from Wikipedia: Personal budget)"
   }
 }

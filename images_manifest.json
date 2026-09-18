@@ -39,6 +39,11 @@
     "source": "commons",
     "attribution": "Photo: Annie Besant — Public domain, via Wikimedia Commons (from Wikipedia: An Introduction to Yoga)"
   },
+  "ws-en-emanuel-swedenborg-scientist-and-mysticnotes-and": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Photo: chil, on Camptocamp.org\nDerivative work:Zacharie Grossen — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Matterhorn)"
+  },
   "ws-en-the-discovery-of-radium": {
     "panelCount": 1,
     "source": "commons",
@@ -82,7 +87,7 @@
   "ws-en-essays-in-idlenesswit-and-humor": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: James Tissot — Public domain, via Wikimedia Commons (from Wikipedia: The Bible and humor)"
+    "attribution": "Photo: Staff Sgt. Marc Lane — Public domain, via Wikimedia Commons (from Wikipedia: Humour)"
   },
   "ws-en-popular-science-monthlyvolume-73august-1908the-n": {
     "panelCount": 1,
@@ -104,10 +109,20 @@
     "source": "commons",
     "attribution": "Photo: Chemical Engineer — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Royal Academy of Dramatic Art)"
   },
+  "ws-en-the-harvard-classics-vol-51drama-iii": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: John Leech — Public domain, via Wikimedia Commons (from Wikipedia: Drama)"
+  },
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
+  },
+  "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Roger Davies — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Dorchester on Thames)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansdictionaries": {
     "panelCount": 1,
@@ -167,7 +182,7 @@
   "ws-en-catalogue-of-books-suitable-for-a-popular-librar": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Richard Wilhelm (trans) — Public domain, via Wikimedia Commons (from Wikipedia: Astral projection)"
+    "attribution": "Photo: Joseph Karl Stieler — Public domain, via Wikimedia Commons (from Wikipedia: Cosmos (Humboldt book))"
   },
   "ws-en-the-riddle-and-other-storiesthe-bird-of-travel": {
     "panelCount": 1,
@@ -197,7 +212,7 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Hollingsworth, John and Karen. — Public domain, via Wikimedia Commons (from Wikipedia: Felidae)"
+    "attribution": "Photo: PresN — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Canidae)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
@@ -257,12 +272,7 @@
   "devotion-inner-lamp": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: W.carter — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Sodium-vapor lamp)"
-  },
-  "devotion-thanks-for-food": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Willem van de Poll — CC0, via Wikimedia Commons (from Wikipedia: Kiddush)"
+    "attribution": "Photo: Flickr user Oimax \n\n\n\n\n\n\nThis image was originally posted to Flickr by OiMax at https://www.flickr.com/photos/72396314@N00/404614118. It was reviewed on 20 May 2007 by FlickreviewR and was confirmed to be licensed under the terms of the cc-by-2.0.\n\n\n20 May 2007 — CC BY 2.0, via Wikimedia Commons (from Wikipedia: Fluorescent lamp)"
   },
   "devotion-river-of-peace": {
     "panelCount": 1,

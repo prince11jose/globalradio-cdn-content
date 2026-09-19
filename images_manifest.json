@@ -19,11 +19,6 @@
     "source": "commons",
     "attribution": "Photo: Ms Sarah Welch — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Vedas)"
   },
-  "ws-en-atharva-veda-samhitabook-xiihymn-1": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Exekias — CC BY 2.5, via Wikimedia Commons (from Wikipedia: Homeric Hymns)"
-  },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
     "source": "commons",
@@ -58,6 +53,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Brian Chan tigerrulezzz — CC0, via Wikimedia Commons (from Wikipedia: List of Scottish inventions and discoveries)"
+  },
+  "ws-en-popular-science-monthlyvolume-44january-1894inve": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
   },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
@@ -162,7 +162,7 @@
   "ws-en-catalogue-of-books-suitable-for-a-popular-librar": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Joseph Karl Stieler — Public domain, via Wikimedia Commons (from Wikipedia: Cosmos (Humboldt book))"
+    "attribution": "Photo: Richard Wilhelm (trans) — Public domain, via Wikimedia Commons (from Wikipedia: Astral projection)"
   },
   "ws-en-the-riddle-and-other-storiesthe-bird-of-travel": {
     "panelCount": 1,
@@ -272,7 +272,7 @@
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
+    "attribution": "Photo: W.carter — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Sodium-vapor lamp)"
   },
   "devotion-guru-gratitude": {
     "panelCount": 1,

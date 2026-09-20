@@ -82,7 +82,7 @@
   "ws-en-essays-in-idlenesswit-and-humor": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: James Tissot — Public domain, via Wikimedia Commons (from Wikipedia: The Bible and humor)"
+    "attribution": "Photo: Staff Sgt. Marc Lane — Public domain, via Wikimedia Commons (from Wikipedia: Humour)"
   },
   "ws-en-popular-science-monthlyvolume-73august-1908the-n": {
     "panelCount": 1,
@@ -212,7 +212,7 @@
   "ws-en-popular-science-monthlyvolume-82may-1913heredity": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Unknown authorUnknown author — CC0, via Wikimedia Commons (from Wikipedia: Alexander Graham Bell)"
+    "attribution": "Photo: Keith Allison from Hanover, MD, USA — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Andrew Luck)"
   },
   "ws-en-custom-and-myththe-early-history-of-the-family": {
     "panelCount": 1,
@@ -299,19 +299,9 @@
     "source": "commons",
     "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
   },
-  "finance-beware-ponzi": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Philip Romano — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: R. L. Stine)"
-  },
   "finance-upi-safety": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Brian T Richards — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Aloha IslandAir Flight 1712)"
-  },
-  "finance-budget-50-30-20": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Harris &amp; Ewing, photographer — Public domain, via Wikimedia Commons (from Wikipedia: Personal budget)"
   }
 }

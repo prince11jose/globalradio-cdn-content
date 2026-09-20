@@ -19,11 +19,6 @@
     "source": "commons",
     "attribution": "Photo: Ms Sarah Welch — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Vedas)"
   },
-  "ws-en-atharva-veda-samhitabook-xiihymn-1": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Exekias — CC BY 2.5, via Wikimedia Commons (from Wikipedia: Homeric Hymns)"
-  },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
     "source": "commons",
@@ -164,6 +159,11 @@
     "source": "commons",
     "attribution": "Photo: Klügmann Painter — Public domain, via Wikimedia Commons (from Wikipedia: Reading)"
   },
+  "ws-en-catalogue-of-books-suitable-for-a-popular-librar": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Joseph Karl Stieler — Public domain, via Wikimedia Commons (from Wikipedia: Cosmos (Humboldt book))"
+  },
   "ws-en-the-riddle-and-other-storiesthe-bird-of-travel": {
     "panelCount": 1,
     "source": "commons",
@@ -192,7 +192,7 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Hollingsworth, John and Karen. — Public domain, via Wikimedia Commons (from Wikipedia: Felidae)"
+    "attribution": "Photo: PresN — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Canidae)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
@@ -207,7 +207,7 @@
   "ws-en-popular-science-monthlyvolume-82may-1913heredity": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Unknown authorUnknown author — CC0, via Wikimedia Commons (from Wikipedia: Alexander Graham Bell)"
+    "attribution": "Photo: Fred Hartsook — Public domain, via Wikimedia Commons (from Wikipedia: Luther Burbank)"
   },
   "ws-en-custom-and-myththe-early-history-of-the-family": {
     "panelCount": 1,
@@ -249,50 +249,10 @@
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Walter Rye)"
   },
-  "ws-en-1911-encyclop-dia-britannicazodiac": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Tauʻolunga — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Zodiac)"
-  },
-  "ws-en-simplified-scientific-astrologysigns-and-houses": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Limbourg brothers — Public domain, via Wikimedia Commons (from Wikipedia: Astrological sign)"
-  },
-  "ws-en-the-fables-of-sop-jacobsa-short-history-of-the-s": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
-  },
-  "ws-en-the-encyclopedia-americana-1920childrens-literat": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Smith, Jessie Willcox, 1863-1935 (artist); L. Prang &amp; Co. (publisher) — Public domain, via Wikimedia Commons (from Wikipedia: Children's literature)"
-  },
-  "ws-en-fables-aesop": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
-  },
-  "ws-en-the-blue-fairy-book": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: The Langs' Fairy Books)"
-  },
-  "ws-en-1911-encyclop-dia-britannicafable": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Fable)"
-  },
-  "ws-en-sops-fables-v-s-vernon-jones": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
-  },
   "devotion-inner-lamp": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: W.carter — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Sodium-vapor lamp)"
+    "attribution": "Photo: Flickr user Oimax \n\n\n\n\n\n\nThis image was originally posted to Flickr by OiMax at https://www.flickr.com/photos/72396314@N00/404614118. It was reviewed on 20 May 2007 by FlickreviewR and was confirmed to be licensed under the terms of the cc-by-2.0.\n\n\n20 May 2007 — CC BY 2.0, via Wikimedia Commons (from Wikipedia: Fluorescent lamp)"
   },
   "devotion-river-of-peace": {
     "panelCount": 1,
@@ -312,7 +272,7 @@
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: W.carter — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Sodium-vapor lamp)"
+    "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
   },
   "devotion-guru-gratitude": {
     "panelCount": 1,
@@ -328,6 +288,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: The original uploader was Dziewa at English Wikipedia. — Public domain, via Wikimedia Commons (from Wikipedia: Swami Vivekananda at the Parliament of the World's Religions)"
+  },
+  "finance-what-is-sip": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

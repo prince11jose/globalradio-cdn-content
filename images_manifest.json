@@ -59,6 +59,11 @@
     "source": "commons",
     "attribution": "Photo: Brian Chan tigerrulezzz — CC0, via Wikimedia Commons (from Wikipedia: List of Scottish inventions and discoveries)"
   },
+  "ws-en-popular-science-monthlyvolume-44january-1894inve": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
+  },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
     "source": "commons",
@@ -77,7 +82,7 @@
   "ws-en-essays-in-idlenesswit-and-humor": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Staff Sgt. Marc Lane — Public domain, via Wikimedia Commons (from Wikipedia: Humour)"
+    "attribution": "Photo: James Tissot — Public domain, via Wikimedia Commons (from Wikipedia: The Bible and humor)"
   },
   "ws-en-popular-science-monthlyvolume-73august-1908the-n": {
     "panelCount": 1,
@@ -244,10 +249,50 @@
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Walter Rye)"
   },
+  "ws-en-1911-encyclop-dia-britannicazodiac": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Tauʻolunga — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Zodiac)"
+  },
+  "ws-en-simplified-scientific-astrologysigns-and-houses": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Limbourg brothers — Public domain, via Wikimedia Commons (from Wikipedia: Astrological sign)"
+  },
+  "ws-en-the-fables-of-sop-jacobsa-short-history-of-the-s": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
+  },
+  "ws-en-the-encyclopedia-americana-1920childrens-literat": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Smith, Jessie Willcox, 1863-1935 (artist); L. Prang &amp; Co. (publisher) — Public domain, via Wikimedia Commons (from Wikipedia: Children's literature)"
+  },
+  "ws-en-fables-aesop": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
+  },
+  "ws-en-the-blue-fairy-book": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: The Langs' Fairy Books)"
+  },
+  "ws-en-1911-encyclop-dia-britannicafable": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Fable)"
+  },
+  "ws-en-sops-fables-v-s-vernon-jones": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
+  },
   "devotion-inner-lamp": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Flickr user Oimax \n\n\n\n\n\n\nThis image was originally posted to Flickr by OiMax at https://www.flickr.com/photos/72396314@N00/404614118. It was reviewed on 20 May 2007 by FlickreviewR and was confirmed to be licensed under the terms of the cc-by-2.0.\n\n\n20 May 2007 — CC BY 2.0, via Wikimedia Commons (from Wikipedia: Fluorescent lamp)"
+    "attribution": "Photo: W.carter — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Sodium-vapor lamp)"
   },
   "devotion-river-of-peace": {
     "panelCount": 1,
@@ -267,7 +312,7 @@
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
+    "attribution": "Photo: W.carter — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Sodium-vapor lamp)"
   },
   "devotion-guru-gratitude": {
     "panelCount": 1,

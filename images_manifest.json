@@ -259,6 +259,11 @@
     "source": "commons",
     "attribution": "Photo: Augustus Marshall (d. 1916) — Public domain, via Wikimedia Commons (from Wikipedia: John Boyle O'Reilly)"
   },
+  "ws-en-the-strand-magazinevolume-3issue-17champions": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Champion)"
+  },
   "ws-en-the-times1929obituarywalter-rye": {
     "panelCount": 1,
     "source": "commons",
@@ -277,7 +282,7 @@
   "devotion-river-of-peace": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Qyd — Public domain, via Wikimedia Commons (from Wikipedia: Peace River)"
+    "attribution": "Photo: awmcphee — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Peace River, Alberta)"
   },
   "devotion-morning-resolve": {
     "panelCount": 1,
@@ -313,11 +318,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
-  },
-  "finance-beware-ponzi": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Philip Romano — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: R. L. Stine)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

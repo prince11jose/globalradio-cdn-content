@@ -39,11 +39,6 @@
     "source": "commons",
     "attribution": "Photo: Annie Besant — Public domain, via Wikimedia Commons (from Wikipedia: An Introduction to Yoga)"
   },
-  "ws-en-emanuel-swedenborg-scientist-and-mysticnotes-and": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Photo: chil, on Camptocamp.org\nDerivative work:Zacharie Grossen — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Matterhorn)"
-  },
   "ws-en-the-discovery-of-radium": {
     "panelCount": 1,
     "source": "commons",
@@ -224,6 +219,11 @@
     "source": "commons",
     "attribution": "Photo: Ticknor and Fields/Nathaniel Hawthorne — Public domain, via Wikimedia Commons (from Wikipedia: The House of the Seven Gables)"
   },
+  "ws-en-popular-science-monthlyvolume-82may-1913heredity": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — CC0, via Wikimedia Commons (from Wikipedia: Alexander Graham Bell)"
+  },
   "ws-en-custom-and-myththe-early-history-of-the-family": {
     "panelCount": 1,
     "source": "commons",
@@ -277,7 +277,7 @@
   "devotion-river-of-peace": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Jeffrey Wynne — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Peace River)"
+    "attribution": "Photo: awmcphee — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Peace River, Alberta)"
   },
   "devotion-morning-resolve": {
     "panelCount": 1,
@@ -292,7 +292,12 @@
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: KMJ, alpha masking by Edokter — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Incandescent light bulb)"
+    "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
+  },
+  "devotion-patience-prayer": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
   },
   "devotion-guru-gratitude": {
     "panelCount": 1,
@@ -308,6 +313,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: The original uploader was Dziewa at English Wikipedia. — Public domain, via Wikimedia Commons (from Wikipedia: Swami Vivekananda)"
+  },
+  "finance-what-is-sip": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

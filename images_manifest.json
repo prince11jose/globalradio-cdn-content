@@ -22,7 +22,7 @@
   "ws-en-atharva-veda-samhitabook-xiihymn-1": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Arvid Liljelund — Public domain, via Wikimedia Commons (from Wikipedia: Hymn)"
+    "attribution": "Photo: Friedrich August Rosen (1805–1837) — Public domain, via Wikimedia Commons (from Wikipedia: Rigveda 1.32)"
   },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
@@ -63,11 +63,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Brian Chan tigerrulezzz — CC0, via Wikimedia Commons (from Wikipedia: List of Scottish inventions and discoveries)"
-  },
-  "ws-en-proclamation-4721": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: anonymous — Public domain, via Wikimedia Commons (from Wikipedia: Catherine Parr)"
   },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
@@ -277,12 +272,17 @@
   "devotion-river-of-peace": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Jeffrey Wynne — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Peace River)"
+    "attribution": "Photo: awmcphee — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Peace River, Alberta)"
   },
   "devotion-morning-resolve": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Pompeo Batoni — CC0, via Wikimedia Commons (from Wikipedia: Sacred Heart)"
+  },
+  "devotion-night-surrender": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Army Signal Corps photographer LT. Stephen E. Korpanty; restored by Adam Cuerden — Public domain, via Wikimedia Commons (from Wikipedia: Surrender of Japan)"
   },
   "devotion-one-light-many-lamps": {
     "panelCount": 1,

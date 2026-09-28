@@ -119,6 +119,11 @@
     "source": "commons",
     "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
   },
+  "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Roger Davies — CC BY-SA 2.0, via Wikimedia Commons (from Wikipedia: Dorchester on Thames)"
+  },
   "ws-en-a-dictionary-of-music-and-musiciansdictionaries": {
     "panelCount": 1,
     "source": "commons",
@@ -279,11 +284,6 @@
     "source": "commons",
     "attribution": "Photo: Jeffrey Wynne — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Peace River)"
   },
-  "devotion-honor-parents": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Alexander Nikanorovich Novoskoltsev — Public domain, via Wikimedia Commons (from Wikipedia: Blessing)"
-  },
   "devotion-morning-resolve": {
     "panelCount": 1,
     "source": "commons",
@@ -308,6 +308,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Kiran891 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: List of Teachers' Days)"
+  },
+  "devotion-new-week-blessing": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: No machine-readable author provided. Bachrach44 assumed (based on copyright claims). — Public domain, via Wikimedia Commons (from Wikipedia: Priestly Blessing)"
   },
   "wisdom-vivekananda": {
     "panelCount": 1,

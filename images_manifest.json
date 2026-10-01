@@ -64,6 +64,11 @@
     "source": "commons",
     "attribution": "Photo: Brian Chan tigerrulezzz — CC0, via Wikimedia Commons (from Wikipedia: List of Scottish inventions and discoveries)"
   },
+  "ws-en-proclamation-4721": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: anonymous — Public domain, via Wikimedia Commons (from Wikipedia: Catherine Parr)"
+  },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
     "source": "commons",
@@ -109,10 +114,10 @@
     "source": "commons",
     "attribution": "Photo: Chemical Engineer — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Royal Academy of Dramatic Art)"
   },
-  "ws-en-the-harvard-classics-vol-51drama-iii": {
+  "ws-en-folk-lorevolume-2folk-drama": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: John Leech — Public domain, via Wikimedia Commons (from Wikipedia: Drama)"
+    "attribution": "Photo: Arthur Rackham — Public domain, via Wikimedia Commons (from Wikipedia: Folklore)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
@@ -133,6 +138,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Catholic literary revival)"
+  },
+  "ws-en-how-to-write-a-short-story": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: A Predicament)"
   },
   "ws-en-beyond-fantasy-fiction1953": {
     "panelCount": 1,
@@ -274,11 +284,6 @@
     "source": "commons",
     "attribution": "Photo: Jeffrey Wynne — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Peace River)"
   },
-  "devotion-honor-parents": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Alexander Nikanorovich Novoskoltsev — Public domain, via Wikimedia Commons (from Wikipedia: Blessing)"
-  },
   "devotion-morning-resolve": {
     "panelCount": 1,
     "source": "commons",
@@ -323,10 +328,5 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Brian T Richards — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Aloha IslandAir Flight 1712)"
-  },
-  "finance-budget-50-30-20": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Harris &amp; Ewing, photographer — Public domain, via Wikimedia Commons (from Wikipedia: Personal budget)"
   }
 }

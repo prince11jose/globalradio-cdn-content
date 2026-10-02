@@ -64,10 +64,10 @@
     "source": "commons",
     "attribution": "Photo: Brian Chan tigerrulezzz — CC0, via Wikimedia Commons (from Wikipedia: List of Scottish inventions and discoveries)"
   },
-  "ws-en-proclamation-4721": {
+  "ws-en-popular-science-monthlyvolume-44january-1894inve": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: anonymous — Public domain, via Wikimedia Commons (from Wikipedia: Catherine Parr)"
+    "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
   },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
@@ -77,7 +77,7 @@
   "ws-en-popular-science-monthlyvolume-12november-1877the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Marine steam engine)"
+    "attribution": "Photo: Nicolás Pérez — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Watt steam engine)"
   },
   "ws-en-the-boys-life-of-mark-twain": {
     "panelCount": 1,
@@ -279,11 +279,6 @@
     "source": "commons",
     "attribution": "Photo: Jeffrey Wynne — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Peace River)"
   },
-  "devotion-honor-parents": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Alexander Nikanorovich Novoskoltsev — Public domain, via Wikimedia Commons (from Wikipedia: Blessing)"
-  },
   "devotion-morning-resolve": {
     "panelCount": 1,
     "source": "commons",
@@ -297,7 +292,7 @@
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
+    "attribution": "Photo: KMJ, alpha masking by Edokter — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Incandescent light bulb)"
   },
   "devotion-patience-prayer": {
     "panelCount": 1,
@@ -309,10 +304,20 @@
     "source": "commons",
     "attribution": "Photo: Kiran891 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: List of Teachers' Days)"
   },
+  "devotion-new-week-blessing": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: No machine-readable author provided. Bachrach44 assumed (based on copyright claims). — Public domain, via Wikimedia Commons (from Wikipedia: Priestly Blessing)"
+  },
   "wisdom-vivekananda": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: The original uploader was Dziewa at English Wikipedia. — Public domain, via Wikimedia Commons (from Wikipedia: Swami Vivekananda)"
+  },
+  "finance-what-is-sip": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
   },
   "finance-beware-ponzi": {
     "panelCount": 1,

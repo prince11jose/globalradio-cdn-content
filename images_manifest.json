@@ -39,11 +39,6 @@
     "source": "commons",
     "attribution": "Photo: Annie Besant — Public domain, via Wikimedia Commons (from Wikipedia: An Introduction to Yoga)"
   },
-  "ws-en-emanuel-swedenborg-scientist-and-mysticnotes-and": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Photo: chil, on Camptocamp.org\nDerivative work:Zacharie Grossen — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Matterhorn)"
-  },
   "ws-en-the-discovery-of-radium": {
     "panelCount": 1,
     "source": "commons",
@@ -134,6 +129,11 @@
     "source": "commons",
     "attribution": "Photo: Anton von Werner — Public domain, via Wikimedia Commons (from Wikipedia: Ars Poetica (Horace))"
   },
+  "ws-en-the-spirit-of-poetry": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Catholic literary revival)"
+  },
   "ws-en-how-to-write-a-short-story": {
     "panelCount": 1,
     "source": "commons",
@@ -207,7 +207,7 @@
   "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Charles Darwin — Public domain, via Wikimedia Commons (from Wikipedia: Evolution)"
+    "attribution": "Photo: Hollingsworth, John and Karen. — Public domain, via Wikimedia Commons (from Wikipedia: Felidae)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
@@ -217,7 +217,7 @@
   "ws-en-the-encyclopedia-americana-1920house-of-the-seve": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Ticknor and Fields/Nathaniel Hawthorne — Public domain, via Wikimedia Commons (from Wikipedia: The House of the Seven Gables)"
+    "attribution": "Photo: Upstateherd — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: House of the Seven Gables)"
   },
   "ws-en-custom-and-myththe-early-history-of-the-family": {
     "panelCount": 1,
@@ -274,11 +274,6 @@
     "source": "commons",
     "attribution": "Photo: awmcphee — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Peace River, Alberta)"
   },
-  "devotion-honor-parents": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Alexander Nikanorovich Novoskoltsev — Public domain, via Wikimedia Commons (from Wikipedia: Blessing)"
-  },
   "devotion-morning-resolve": {
     "panelCount": 1,
     "source": "commons",
@@ -293,6 +288,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: KMJ, alpha masking by Edokter — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Incandescent light bulb)"
+  },
+  "devotion-patience-prayer": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
   },
   "devotion-guru-gratitude": {
     "panelCount": 1,

@@ -1,9 +1,4 @@
 {
-  "ws-en-the-new-students-reference-workveda": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Ms Sarah Welch — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Vedas)"
-  },
   "ws-en-atharva-veda-samhitabook-xhymn-5": {
     "panelCount": 1,
     "source": "commons",
@@ -22,7 +17,7 @@
   "ws-en-atharva-veda-samhitabook-xiihymn-1": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Friedrich August Rosen (1805–1837) — Public domain, via Wikimedia Commons (from Wikipedia: Rigveda 1.32)"
+    "attribution": "Photo: Arvid Liljelund — Public domain, via Wikimedia Commons (from Wikipedia: Hymn)"
   },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
@@ -49,16 +44,6 @@
     "source": "commons",
     "attribution": "Photo: Carl Frederik von Breda — Public domain, via Wikimedia Commons (from Wikipedia: Emanuel Swedenborg)"
   },
-  "ws-en-what-is-technology": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Siemens Pressebild — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Technology)"
-  },
-  "ws-en-national-technology-transfer-and-advancement-act": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: William Shakespeare and unknown scribe — Public domain, via Wikimedia Commons (from Wikipedia: Incorporation by reference)"
-  },
   "ws-en-popular-science-monthlyvolume-39august-1891the-r": {
     "panelCount": 1,
     "source": "commons",
@@ -69,45 +54,60 @@
     "source": "commons",
     "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
   },
+  "ws-en-proclamation-4721": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Imp. lith. De Bove dir. par Noël Aîné et Compagnie (imprimeur) — Public domain, via Wikimedia Commons (from Wikipedia: Mathieu de Montmorency)"
+  },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Johann Beckmann)"
   },
-  "ws-en-popular-science-monthlyvolume-12november-1877the": {
+  "ws-en-dictionary-of-national-biography-1885-1900story": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Marine steam engine)"
+    "attribution": "Photo: unknown — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: John Story (martyr))"
   },
   "ws-en-the-boys-life-of-mark-twain": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: not listed — Public domain, via Wikimedia Commons (from Wikipedia: Mark Twain bibliography)"
+    "attribution": "Photo: A.F. Bradley, New York — Public domain, via Wikimedia Commons (from Wikipedia: Mark Twain)"
   },
   "ws-en-dictionary-of-national-biography-1885-1900ewing": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Juliana Horatia Ewing)"
   },
-  "ws-en-essays-in-idlenesswit-and-humor": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Staff Sgt. Marc Lane — Public domain, via Wikimedia Commons (from Wikipedia: Humour)"
-  },
   "ws-en-popular-science-monthlyvolume-73august-1908the-n": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Humorism)"
   },
-  "ws-en-the-grey-wig-collectionthe-serio-comic-governess": {
+  "ws-en-points-of-view-reppliera-plea-for-humor": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Israel Zangwill)"
+    "attribution": "Photo: James Tissot — Public domain, via Wikimedia Commons (from Wikipedia: The Bible and humor)"
   },
   "ws-en-the-grey-wig-collectionend-matter": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Hans Holbein the Younger — Public domain, via Wikimedia Commons (from Wikipedia: Book design)"
+  },
+  "ws-en-the-harvard-classics-vol-51drama-i": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Cartoon Network (WB Discovery) — Public domain, via Wikimedia Commons (from Wikipedia: Total Drama)"
+  },
+  "ws-en-in-flanders-fields-and-other-poemsthe-oldest-dra": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: John Leech — Public domain, via Wikimedia Commons (from Wikipedia: Drama)"
+  },
+  "ws-en-folk-lorevolume-2folk-drama": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: A. Piotrowski — Public domain, via Wikimedia Commons (from Wikipedia: Folk play)"
   },
   "ws-en-the-harvard-classics-vol-51drama-iii": {
     "panelCount": 1,
@@ -117,7 +117,12 @@
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Larry Armstrong, Los Angeles Times — CC BY 4.0, via Wikimedia Commons (from Wikipedia: Esther Rolle)"
+    "attribution": "Photo: SalomonCeb — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Rolle)"
+  },
+  "ws-en-a-dictionary-of-music-and-musiciansbaptie-david": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Stephencdickson — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Peter Milne (musician))"
   },
   "ws-en-a-dictionary-of-music-and-musiciansdictionaries": {
     "panelCount": 1,
@@ -162,22 +167,27 @@
   "ws-en-drug-themes-in-science-fiction": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Alphonse de Neuville / Henri Théophile Hildibrand — Public domain, via Wikimedia Commons (from Wikipedia: History of science fiction)"
+    "attribution": "Photo: Gregory Casparian — Public domain, via Wikimedia Commons (from Wikipedia: LGBTQ themes in speculative fiction)"
   },
   "ws-en-journal-of-american-folk-lorevolume-13issue-51re": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Klügmann Painter — Public domain, via Wikimedia Commons (from Wikipedia: Reading)"
   },
-  "ws-en-catalogue-of-books-suitable-for-a-popular-librar": {
+  "ws-en-the-school-and-societythe-school-and-the-life-of": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Hokachung — CC BY 3.0, via Wikimedia Commons (from Wikipedia: Travel)"
+    "attribution": "Photo: PSYCHREL — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Divine Child High School)"
+  },
+  "ws-en-popular-science-monthlyvolume-40april-1892litera": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Anna Cervova — CC0, via Wikimedia Commons (from Wikipedia: Copyright notice)"
   },
   "ws-en-the-riddle-and-other-storiesthe-bird-of-travel": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: C. Robiller / naturlichter.de (Hyla meridionalis) — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Bird)"
+    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Isabella Bird)"
   },
   "ws-en-the-lost-road-collectionend-matter": {
     "panelCount": 1,
@@ -187,7 +197,7 @@
   "ws-en-the-american-cyclop-dia-1879taylor-bayard": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Bayard Taylor)"
+    "attribution": "Photo: Smallbones — Public domain, via Wikimedia Commons (from Wikipedia: Bayard Taylor School)"
   },
   "ws-en-enterprise-and-adventuremajor-mitchell-and-the-b": {
     "panelCount": 1,
@@ -198,11 +208,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Hans Holbein the Younger — Public domain, via Wikimedia Commons (from Wikipedia: Book design)"
-  },
-  "ws-en-popular-science-monthlyvolume-11july-1877on-the": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Charles Darwin — Public domain, via Wikimedia Commons (from Wikipedia: Evolution)"
   },
   "ws-en-national-coalition-for-gay-and-lesbian-equality": {
     "panelCount": 1,
@@ -232,7 +237,7 @@
   "ws-en-encyclop-dia-britannica-ninth-editionfriedrich-b": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Friedrich Hermann Hartmann — Public domain, via Wikimedia Commons (from Wikipedia: Friedrich Nietzsche)"
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Friedrich von Hermann)"
   },
   "ws-en-white-house-announces-additional-policy-staff": {
     "panelCount": 1,
@@ -269,45 +274,55 @@
     "source": "commons",
     "attribution": "Photo: Jeffrey Wynne — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Peace River)"
   },
+  "devotion-honor-parents": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Alexander Nikanorovich Novoskoltsev — Public domain, via Wikimedia Commons (from Wikipedia: Blessing)"
+  },
   "devotion-morning-resolve": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Pompeo Batoni — CC0, via Wikimedia Commons (from Wikipedia: Sacred Heart)"
   },
-  "devotion-night-surrender": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Army Signal Corps photographer LT. Stephen E. Korpanty; restored by Adam Cuerden — Public domain, via Wikimedia Commons (from Wikipedia: Surrender of Japan)"
-  },
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: KMJ, alpha masking by Edokter — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Incandescent light bulb)"
+    "attribution": "Photo: Flickr user Oimax \n\n\n\n\n\n\nThis image was originally posted to Flickr by OiMax at https://www.flickr.com/photos/72396314@N00/404614118. It was reviewed on 20 May 2007 by FlickreviewR and was confirmed to be licensed under the terms of the cc-by-2.0.\n\n\n20 May 2007 — CC BY 2.0, via Wikimedia Commons (from Wikipedia: Fluorescent lamp)"
   },
   "devotion-patience-prayer": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
   },
+  "devotion-work-as-worship": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: David Ball, Mactographer at English Wikipedia — CC BY 2.5, via Wikimedia Commons (from Wikipedia: Contemporary worship)"
+  },
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Kiran891 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: List of Teachers' Days)"
+  },
+  "devotion-new-week-blessing": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: No machine-readable author provided. Bachrach44 assumed (based on copyright claims). — Public domain, via Wikimedia Commons (from Wikipedia: Priestly Blessing)"
   },
   "wisdom-vivekananda": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: The original uploader was Dziewa at English Wikipedia. — Public domain, via Wikimedia Commons (from Wikipedia: Swami Vivekananda)"
   },
-  "finance-what-is-sip": {
+  "finance-emergency-fund": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
+    "attribution": "Photo: Hoot504 — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Emergency medicine)"
   },
   "finance-upi-safety": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Brian T Richards — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Aloha IslandAir Flight 1712)"
+    "attribution": "Photo: John G. Kemeny et al — Public domain, via Wikimedia Commons (from Wikipedia: Nuclear safety in the United States)"
   },
   "finance-budget-50-30-20": {
     "panelCount": 1,

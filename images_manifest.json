@@ -104,11 +104,6 @@
     "source": "commons",
     "attribution": "Photo: Hans Holbein the Younger — Public domain, via Wikimedia Commons (from Wikipedia: Book design)"
   },
-  "ws-en-the-harvard-classics-vol-51drama-iii": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: John Leech — Public domain, via Wikimedia Commons (from Wikipedia: Drama)"
-  },
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
@@ -123,16 +118,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Anton von Werner — Public domain, via Wikimedia Commons (from Wikipedia: Ars Poetica (Horace))"
-  },
-  "ws-en-the-spirit-of-poetry": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Catholic literary revival)"
-  },
-  "ws-en-how-to-write-a-short-story": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: A Predicament)"
   },
   "ws-en-beyond-fantasy-fiction1953": {
     "panelCount": 1,
@@ -212,7 +197,7 @@
   "ws-en-the-encyclopedia-americana-1920house-of-the-seve": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Ticknor and Fields/Nathaniel Hawthorne — Public domain, via Wikimedia Commons (from Wikipedia: The House of the Seven Gables)"
+    "attribution": "Photo: Upstateherd — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: House of the Seven Gables)"
   },
   "ws-en-custom-and-myththe-early-history-of-the-family": {
     "panelCount": 1,
@@ -303,11 +288,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
-  },
-  "finance-beware-ponzi": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Philip Romano — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: R. L. Stine)"
   },
   "finance-upi-safety": {
     "panelCount": 1,

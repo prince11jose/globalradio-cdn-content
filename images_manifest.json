@@ -39,6 +39,11 @@
     "source": "commons",
     "attribution": "Photo: Annie Besant — Public domain, via Wikimedia Commons (from Wikipedia: An Introduction to Yoga)"
   },
+  "ws-en-emanuel-swedenborg-scientist-and-mysticnotes-and": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Photo: chil, on Camptocamp.org\nDerivative work:Zacharie Grossen — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Matterhorn)"
+  },
   "ws-en-the-discovery-of-radium": {
     "panelCount": 1,
     "source": "commons",
@@ -109,6 +114,11 @@
     "source": "commons",
     "attribution": "Photo: Hans Holbein the Younger — Public domain, via Wikimedia Commons (from Wikipedia: Book design)"
   },
+  "ws-en-the-harvard-classics-vol-51drama-iii": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: John Leech — Public domain, via Wikimedia Commons (from Wikipedia: Drama)"
+  },
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
     "source": "commons",
@@ -128,6 +138,11 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: Catholic literary revival)"
+  },
+  "ws-en-how-to-write-a-short-story": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: A Predicament)"
   },
   "ws-en-beyond-fantasy-fiction1953": {
     "panelCount": 1,
@@ -157,7 +172,7 @@
   "ws-en-drug-themes-in-science-fiction": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Alphonse de Neuville / Henri Théophile Hildibrand — Public domain, via Wikimedia Commons (from Wikipedia: History of science fiction)"
+    "attribution": "Photo: Gregory Casparian — Public domain, via Wikimedia Commons (from Wikipedia: LGBTQ themes in speculative fiction)"
   },
   "ws-en-journal-of-american-folk-lorevolume-13issue-51re": {
     "panelCount": 1,
@@ -207,7 +222,7 @@
   "ws-en-the-encyclopedia-americana-1920house-of-the-seve": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Upstateherd — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: House of the Seven Gables)"
+    "attribution": "Photo: Ticknor and Fields/Nathaniel Hawthorne — Public domain, via Wikimedia Commons (from Wikipedia: The House of the Seven Gables)"
   },
   "ws-en-custom-and-myththe-early-history-of-the-family": {
     "panelCount": 1,
@@ -264,11 +279,6 @@
     "source": "commons",
     "attribution": "Photo: Jeffrey Wynne — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Peace River)"
   },
-  "devotion-honor-parents": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: Alexander Nikanorovich Novoskoltsev — Public domain, via Wikimedia Commons (from Wikipedia: Blessing)"
-  },
   "devotion-morning-resolve": {
     "panelCount": 1,
     "source": "commons",
@@ -284,6 +294,11 @@
     "source": "commons",
     "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
   },
+  "devotion-patience-prayer": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
+  },
   "devotion-guru-gratitude": {
     "panelCount": 1,
     "source": "commons",
@@ -294,9 +309,19 @@
     "source": "commons",
     "attribution": "Photo: The original uploader was Dziewa at English Wikipedia. — Public domain, via Wikimedia Commons (from Wikipedia: Swami Vivekananda)"
   },
+  "finance-what-is-sip": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Bbutscher — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Session Initiation Protocol)"
+  },
   "finance-upi-safety": {
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Brian T Richards — CC BY-SA 4.0, via Wikimedia Commons (from Wikipedia: Aloha IslandAir Flight 1712)"
+  },
+  "finance-budget-50-30-20": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Harris &amp; Ewing, photographer — Public domain, via Wikimedia Commons (from Wikipedia: Personal budget)"
   }
 }

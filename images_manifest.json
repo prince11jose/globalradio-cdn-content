@@ -22,7 +22,7 @@
   "ws-en-atharva-veda-samhitabook-xiihymn-1": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Arvid Liljelund — Public domain, via Wikimedia Commons (from Wikipedia: Hymn)"
+    "attribution": "Photo: Friedrich August Rosen (1805–1837) — Public domain, via Wikimedia Commons (from Wikipedia: Rigveda 1.32)"
   },
   "ws-en-hatha-yoga": {
     "panelCount": 1,
@@ -64,6 +64,11 @@
     "source": "commons",
     "attribution": "Photo: Brian Chan tigerrulezzz — CC0, via Wikimedia Commons (from Wikipedia: List of Scottish inventions and discoveries)"
   },
+  "ws-en-popular-science-monthlyvolume-44january-1894inve": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Experimenter Publishing — Public domain, via Wikimedia Commons (from Wikipedia: Invention)"
+  },
   "ws-en-1911-encyclop-dia-britannicabeckmann-johann": {
     "panelCount": 1,
     "source": "commons",
@@ -98,11 +103,6 @@
     "panelCount": 1,
     "source": "commons",
     "attribution": "Photo: Hans Holbein the Younger — Public domain, via Wikimedia Commons (from Wikipedia: Book design)"
-  },
-  "ws-en-the-harvard-classics-vol-51drama-iii": {
-    "panelCount": 1,
-    "source": "commons",
-    "attribution": "Photo: John Leech — Public domain, via Wikimedia Commons (from Wikipedia: Drama)"
   },
   "ws-en-a-dictionary-of-music-and-musiciansrolle": {
     "panelCount": 1,
@@ -249,6 +249,51 @@
     "source": "commons",
     "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Walter Rye)"
   },
+  "ws-en-1911-encyclop-dia-britannicazodiac": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Tauʻolunga — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Zodiac)"
+  },
+  "ws-en-simplified-scientific-astrologysigns-and-houses": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Limbourg brothers — Public domain, via Wikimedia Commons (from Wikipedia: Astrological sign)"
+  },
+  "ws-en-the-fables-of-sop-jacobsa-short-history-of-the-s": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
+  },
+  "ws-en-the-encyclopedia-americana-1920childrens-literat": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Smith, Jessie Willcox, 1863-1935 (artist); L. Prang &amp; Co. (publisher) — Public domain, via Wikimedia Commons (from Wikipedia: Children's literature)"
+  },
+  "ws-en-fables-aesop": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
+  },
+  "ws-en-the-blue-fairy-book": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown — Public domain, via Wikimedia Commons (from Wikipedia: The Langs' Fairy Books)"
+  },
+  "ws-en-1911-encyclop-dia-britannicafable": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Fable)"
+  },
+  "ws-en-poems-of-passiona-fable": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Unknown authorUnknown author — Public domain, via Wikimedia Commons (from Wikipedia: Fable)"
+  },
+  "ws-en-sops-fables-v-s-vernon-jones": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Francis Barlow — Public domain, via Wikimedia Commons (from Wikipedia: Aesop's Fables)"
+  },
   "devotion-inner-lamp": {
     "panelCount": 1,
     "source": "commons",
@@ -272,7 +317,12 @@
   "devotion-one-light-many-lamps": {
     "panelCount": 1,
     "source": "commons",
-    "attribution": "Photo: Zátonyi Sándor, (ifj.) Fizped — CC BY 3.0, via Wikimedia Commons (from Wikipedia: LED lamp)"
+    "attribution": "Photo: KMJ, alpha masking by Edokter — CC BY-SA 3.0, via Wikimedia Commons (from Wikipedia: Incandescent light bulb)"
+  },
+  "devotion-patience-prayer": {
+    "panelCount": 1,
+    "source": "commons",
+    "attribution": "Photo: Rijksmuseum — CC0, via Wikimedia Commons (from Wikipedia: Patience)"
   },
   "devotion-guru-gratitude": {
     "panelCount": 1,
